@@ -1,0 +1,44 @@
+customer_id,company,segment,region,customer_since,account_manager_email
+C001,Summit Trail Outfitters,retail store,Canterbury,2022-08-19,james.walker@acmeoutdoor.example
+C002,Kea Kids Club,club,Bay of Plenty,2023-06-06,hannah.moore@acmeoutdoor.example
+C003,Harbourside Adventure Store,retail store,Auckland,2019-07-17,ben.turner@acmeoutdoor.example
+C004,Riverstone Outdoors,retail store,Otago,2025-01-03,chloe.bell@acmeoutdoor.example
+C005,Riverstone Outdoor Club,club,Otago,2023-02-06,grace.cooper@acmeoutdoor.example
+C006,Glacier Bay Supplies,retail store,Waikato,2019-08-26,james.walker@acmeoutdoor.example
+C007,Tasman Tramping Club,club,Auckland,2021-05-29,hannah.moore@acmeoutdoor.example
+C008,Ironsand Surf and Trail,retail store,Otago,2019-12-19,ben.turner@acmeoutdoor.example
+C009,Pinecrest High School,school,Auckland,2023-09-09,chloe.bell@acmeoutdoor.example
+C010,Totara Valley Scouts,club,Auckland,2021-09-12,grace.cooper@acmeoutdoor.example
+C011,Coastal Edge Sports,retail store,Otago,2025-03-07,james.walker@acmeoutdoor.example
+C012,Mountain Mile Gear,retail store,Waikato,2019-08-31,hannah.moore@acmeoutdoor.example
+C013,Waypoint Online,online reseller,Wellington,2020-05-22,ben.turner@acmeoutdoor.example
+C014,Kowhai Camping Co,retail store,Auckland,2025-07-15,chloe.bell@acmeoutdoor.example
+C015,Lakeside Leisure Shop,retail store,Waikato,2025-06-21,grace.cooper@acmeoutdoor.example
+C016,Bluff Road Outdoors,retail store,Auckland,2023-06-13,james.walker@acmeoutdoor.example
+C017,Northern Ridge Alpine Club,club,Auckland,2021-06-24,hannah.moore@acmeoutdoor.example
+C018,Driftwood Kayak Hire,retail store,Wellington,2025-03-30,ben.turner@acmeoutdoor.example
+C019,Red Tussock Retail,retail store,Otago,2022-04-01,chloe.bell@acmeoutdoor.example
+C020,Silver Fern Gear Hub,retail store,Waikato,2020-08-13,grace.cooper@acmeoutdoor.example
+C021,Fiordland Expeditions Store,retail store,Waikato,2020-04-27,james.walker@acmeoutdoor.example
+C022,Cape Light Camping,retail store,Waikato,2022-06-17,hannah.moore@acmeoutdoor.example
+C023,Granite Peak Outfitters,retail store,Auckland,2021-01-10,ben.turner@acmeoutdoor.example
+C024,Westland Wanderers,club,Waikato,2025-07-10,chloe.bell@acmeoutdoor.example
+C025,Harbour City Climbing,retail store,Canterbury,2021-02-08,grace.cooper@acmeoutdoor.example
+C026,Rimu Grove College,school,Waikato,2020-02-04,james.walker@acmeoutdoor.example
+C027,Basecamp Direct,online reseller,Waikato,2019-09-15,hannah.moore@acmeoutdoor.example
+C028,Matai Street Sports,retail store,Waikato,2019-09-02,ben.turner@acmeoutdoor.example
+C029,Southern Lakes Trading,retail store,Otago,2021-04-23,chloe.bell@acmeoutdoor.example
+C030,Pohutukawa Paddlers,club,Otago,2024-12-17,grace.cooper@acmeoutdoor.example
+C031,Clearwater Outdoor Centre,retail store,Otago,2022-07-10,james.walker@acmeoutdoor.example
+C032,High Country Hikers,club,Otago,2025-07-26,hannah.moore@acmeoutdoor.example
+C033,Sandspit Surf Shop,retail store,Canterbury,2023-01-21,ben.turner@acmeoutdoor.example
+C034,Moa Point Adventure,retail store,Wellington,2021-10-14,chloe.bell@acmeoutdoor.example
+C035,Twin Rivers School,school,Auckland,2021-09-26,grace.cooper@acmeoutdoor.example
+C036,Trailhead Collective,online reseller,Canterbury,2025-06-10,james.walker@acmeoutdoor.example
+C037,Kaikoura Coast Outdoors,retail store,Otago,2024-11-21,hannah.moore@acmeoutdoor.example
+C038,Eastgate Camping World,retail store,Bay of Plenty,2022-11-07,ben.turner@acmeoutdoor.example
+C039,Hilltop Harriers,club,Canterbury,2024-01-13,chloe.bell@acmeoutdoor.example
+C040,Cloudline Online,online reseller,Auckland,2019-10-27,grace.cooper@acmeoutdoor.example
+C041,Summit Trail Outfitters Ltd,retail store,Canterbury,2022-08-19,james.walker@acmeoutdoor.example
+C042,Glacier Bay Supplies Limited,retail store,Waikato,2019-08-26,james.walker@acmeoutdoor.example
+C043,Kowhai Camping Company,retail store,Auckland,2025-07-15,chloe.bell@acmeoutdoor.example

@@ -1,0 +1,320 @@
+{
+ "company": "Acme Outdoor Gear",
+ "teams": [
+  {
+   "team": "Leadership",
+   "members": [
+    {
+     "name": "Claire Fraser",
+     "email": "claire.fraser@acmeoutdoor.example",
+     "title": "Managing Director",
+     "location": "Auckland",
+     "reports_to": null
+    },
+    {
+     "name": "Mark Reid",
+     "email": "mark.reid@acmeoutdoor.example",
+     "title": "Head of Sales",
+     "location": "Auckland",
+     "reports_to": "claire.fraser@acmeoutdoor.example"
+    },
+    {
+     "name": "Tom Baker",
+     "email": "tom.baker@acmeoutdoor.example",
+     "title": "Operations Manager",
+     "location": "Christchurch",
+     "reports_to": "claire.fraser@acmeoutdoor.example"
+    }
+   ]
+  },
+  {
+   "team": "Sales",
+   "members": [
+    {
+     "name": "James Walker",
+     "email": "james.walker@acmeoutdoor.example",
+     "title": "Account Manager",
+     "location": "Auckland",
+     "reports_to": "mark.reid@acmeoutdoor.example"
+    },
+    {
+     "name": "Hannah Moore",
+     "email": "hannah.moore@acmeoutdoor.example",
+     "title": "Account Manager",
+     "location": "Auckland",
+     "reports_to": "mark.reid@acmeoutdoor.example"
+    },
+    {
+     "name": "Ben Turner",
+     "email": "ben.turner@acmeoutdoor.example",
+     "title": "Account Manager",
+     "location": "Christchurch",
+     "reports_to": "mark.reid@acmeoutdoor.example"
+    },
+    {
+     "name": "Chloe Bell",
+     "email": "chloe.bell@acmeoutdoor.example",
+     "title": "Account Manager",
+     "location": "Auckland",
+     "reports_to": "mark.reid@acmeoutdoor.example"
+    },
+    {
+     "name": "Daniel Hughes",
+     "email": "daniel.hughes@acmeoutdoor.example",
+     "title": "Sales Coordinator",
+     "location": "Auckland",
+     "reports_to": "mark.reid@acmeoutdoor.example"
+    },
+    {
+     "name": "Grace Cooper",
+     "email": "grace.cooper@acmeoutdoor.example",
+     "title": "Account Manager",
+     "location": "Christchurch",
+     "reports_to": "mark.reid@acmeoutdoor.example"
+    },
+    {
+     "name": "Luke Ward",
+     "email": "luke.ward@acmeoutdoor.example",
+     "title": "Sales Coordinator",
+     "location": "Auckland",
+     "reports_to": "mark.reid@acmeoutdoor.example"
+    }
+   ]
+  },
+  {
+   "team": "Customer Support",
+   "members": [
+    {
+     "name": "Sarah Clarke",
+     "email": "sarah.clarke@acmeoutdoor.example",
+     "title": "Support Lead",
+     "location": "Auckland",
+     "reports_to": "tom.baker@acmeoutdoor.example"
+    },
+    {
+     "name": "Emma Wilson",
+     "email": "emma.wilson@acmeoutdoor.example",
+     "title": "Support Specialist",
+     "location": "Auckland",
+     "reports_to": "sarah.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Ryan Young",
+     "email": "ryan.young@acmeoutdoor.example",
+     "title": "Support Specialist",
+     "location": "Auckland",
+     "reports_to": "sarah.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Megan King",
+     "email": "megan.king@acmeoutdoor.example",
+     "title": "Support Specialist",
+     "location": "Christchurch",
+     "reports_to": "sarah.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Sophie Wright",
+     "email": "sophie.wright@acmeoutdoor.example",
+     "title": "Support Specialist",
+     "location": "Auckland",
+     "reports_to": "sarah.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Nathan Green",
+     "email": "nathan.green@acmeoutdoor.example",
+     "title": "Returns Coordinator",
+     "location": "Christchurch",
+     "reports_to": "sarah.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Amy Morris",
+     "email": "amy.morris@acmeoutdoor.example",
+     "title": "Support Specialist",
+     "location": "Auckland",
+     "reports_to": "sarah.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Josh Ellis",
+     "email": "josh.ellis@acmeoutdoor.example",
+     "title": "Support Specialist",
+     "location": "Christchurch",
+     "reports_to": "sarah.clarke@acmeoutdoor.example"
+    }
+   ]
+  },
+  {
+   "team": "Operations",
+   "members": [
+    {
+     "name": "Simon Clarke",
+     "email": "simon.clarke@acmeoutdoor.example",
+     "title": "Warehouse Supervisor",
+     "location": "Christchurch",
+     "reports_to": "tom.baker@acmeoutdoor.example"
+    },
+    {
+     "name": "Kate Palmer",
+     "email": "kate.palmer@acmeoutdoor.example",
+     "title": "Logistics Coordinator",
+     "location": "Christchurch",
+     "reports_to": "tom.baker@acmeoutdoor.example"
+    },
+    {
+     "name": "Matt Lane",
+     "email": "matt.lane@acmeoutdoor.example",
+     "title": "Warehouse Operator",
+     "location": "Christchurch",
+     "reports_to": "simon.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Ella Shaw",
+     "email": "ella.shaw@acmeoutdoor.example",
+     "title": "Warehouse Operator",
+     "location": "Christchurch",
+     "reports_to": "simon.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Adam Price",
+     "email": "adam.price@acmeoutdoor.example",
+     "title": "Warehouse Operator",
+     "location": "Christchurch",
+     "reports_to": "simon.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Rachel Fox",
+     "email": "rachel.fox@acmeoutdoor.example",
+     "title": "Inventory Planner",
+     "location": "Christchurch",
+     "reports_to": "tom.baker@acmeoutdoor.example"
+    },
+    {
+     "name": "Chris Mason",
+     "email": "chris.mason@acmeoutdoor.example",
+     "title": "Warehouse Operator",
+     "location": "Christchurch",
+     "reports_to": "simon.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Holly Knight",
+     "email": "holly.knight@acmeoutdoor.example",
+     "title": "Quality Inspector",
+     "location": "Christchurch",
+     "reports_to": "tom.baker@acmeoutdoor.example"
+    },
+    {
+     "name": "Peter Gibson",
+     "email": "peter.gibson@acmeoutdoor.example",
+     "title": "Dispatch Lead",
+     "location": "Christchurch",
+     "reports_to": "simon.clarke@acmeoutdoor.example"
+    },
+    {
+     "name": "Laura Marsh",
+     "email": "laura.marsh@acmeoutdoor.example",
+     "title": "Warehouse Operator",
+     "location": "Christchurch",
+     "reports_to": "simon.clarke@acmeoutdoor.example"
+    }
+   ]
+  },
+  {
+   "team": "Purchasing",
+   "members": [
+    {
+     "name": "Olivia Grant",
+     "email": "olivia.grant@acmeoutdoor.example",
+     "title": "Purchasing Manager",
+     "location": "Auckland",
+     "reports_to": "tom.baker@acmeoutdoor.example"
+    },
+    {
+     "name": "Zoe Dixon",
+     "email": "zoe.dixon@acmeoutdoor.example",
+     "title": "Buyer",
+     "location": "Auckland",
+     "reports_to": "olivia.grant@acmeoutdoor.example"
+    },
+    {
+     "name": "Michael Barker",
+     "email": "michael.barker@acmeoutdoor.example",
+     "title": "Buyer",
+     "location": "Auckland",
+     "reports_to": "olivia.grant@acmeoutdoor.example"
+    },
+    {
+     "name": "Anna Holmes",
+     "email": "anna.holmes@acmeoutdoor.example",
+     "title": "Supplier Quality Analyst",
+     "location": "Christchurch",
+     "reports_to": "olivia.grant@acmeoutdoor.example"
+    }
+   ]
+  },
+  {
+   "team": "Finance",
+   "members": [
+    {
+     "name": "James Hall",
+     "email": "james.hall@acmeoutdoor.example",
+     "title": "Finance Manager",
+     "location": "Auckland",
+     "reports_to": "claire.fraser@acmeoutdoor.example"
+    },
+    {
+     "name": "David Lloyd",
+     "email": "david.lloyd@acmeoutdoor.example",
+     "title": "Accountant",
+     "location": "Auckland",
+     "reports_to": "james.hall@acmeoutdoor.example"
+    },
+    {
+     "name": "Jess Murray",
+     "email": "jess.murray@acmeoutdoor.example",
+     "title": "Accounts Receivable Officer",
+     "location": "Auckland",
+     "reports_to": "james.hall@acmeoutdoor.example"
+    },
+    {
+     "name": "Andrew Hunt",
+     "email": "andrew.hunt@acmeoutdoor.example",
+     "title": "Payroll Officer",
+     "location": "Auckland",
+     "reports_to": "james.hall@acmeoutdoor.example"
+    }
+   ]
+  },
+  {
+   "team": "Marketing",
+   "members": [
+    {
+     "name": "Rebecca Webb",
+     "email": "rebecca.webb@acmeoutdoor.example",
+     "title": "Marketing Manager",
+     "location": "Auckland",
+     "reports_to": "claire.fraser@acmeoutdoor.example"
+    },
+    {
+     "name": "Paul Ford",
+     "email": "paul.ford@acmeoutdoor.example",
+     "title": "Content Producer",
+     "location": "Auckland",
+     "reports_to": "rebecca.webb@acmeoutdoor.example"
+    },
+    {
+     "name": "Isla Taylor",
+     "email": "isla.taylor@acmeoutdoor.example",
+     "title": "Digital Marketer",
+     "location": "Auckland",
+     "reports_to": "rebecca.webb@acmeoutdoor.example"
+    },
+    {
+     "name": "Harry Brown",
+     "email": "harry.brown@acmeoutdoor.example",
+     "title": "Graphic Designer",
+     "location": "Auckland",
+     "reports_to": "rebecca.webb@acmeoutdoor.example"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+shipment_id,supplier,sku,qty,expected_date,arrived_date,status,days_late
+SHP-301,Northfold Packs,ACM-PAK-001,200,2026-06-01,2026-06-07,delayed,6
+SHP-302,Kiwi Canvas Works,ACM-TEN-006,200,2026-06-02,2026-06-02,on time,0
+SHP-303,Ember Cookware Ltd,ACM-COK-002,50,2026-06-04,2026-06-04,on time,0
+SHP-305,RIDGEBACK TEXTILES,ACM-TEN-002,150,2026-06-08,2026-06-08,on time,0
+SHP-306,Alpine Loom Co.,ACM-APP-003,200,2026-06-08,2026-06-08,on time,0
+SHP-304,Ridgeback Textiles Ltd,ACM-TEN-001,100,2026-06-10,2026-06-14,delayed,4
+SHP-307,Alpine Loom Co,ACM-TEN-004,200,2026-06-17,2026-06-21,delayed,4
+SHP-308,Coastline Polymers,ACM-SLP-003,100,2026-06-17,2026-06-17,on time,0
+SHP-309,Ridgeback Textiles Ltd,ACM-TEN-002,200,2026-06-22,2026-06-26,delayed,4
+SHP-310,Ridgeback Textiles Ltd,ACM-TEN-003,50,2026-06-24,2026-06-24,on time,0
+SHP-314,Ridgeback Textlies Ltd,ACM-TEN-003,50,2026-06-30,2026-06-30,on time,0
+SHP-312,Ridgeback Textiles Ltd,ACM-TEN-001,150,2026-07-01,2026-07-01,on time,0
+SHP-311,Northfold Packs Limited,ACM-PAK-004,150,2026-07-02,2026-07-02,on time,0
+SHP-313,Coastline Polymers,ACM-FTW-002,100,2026-07-03,2026-07-03,on time,0
+SHP-315,EMBER COOKWARE LTD,ACM-COK-002,150,2026-07-07,2026-07-07,on time,0
+SHP-317,Ember Cookware Ltd,ACM-COK-001,200,2026-07-08,2026-07-09,on time,1
+SHP-318,Alpine Loom Co,ACM-TEN-004,100,2026-07-08,2026-07-09,on time,1
+SHP-316,Alpine Loom Co,ACM-TEN-004,50,2026-07-10,2026-07-10,on time,0
+SHP-320,Tussock Wool Mills,ACM-APP-004,50,2026-07-13,2026-07-13,on time,0
+SHP-321,Coastline Polymers,ACM-SLP-003,100,2026-07-16,2026-07-16,on time,0
+SHP-319,Ridgeback Textiles Limited,ACM-APP-002,150,2026-07-17,2026-07-18,on time,1
+SHP-324,Kiwi Canvas Works,ACM-TEN-005,100,2026-07-21,2026-07-21,on time,0
+SHP-322,Northfold Packs Limited,ACM-PAK-004,150,2026-07-23,2026-07-23,on time,0
+SHP-325,Northfold Packs Ltd,ACM-PAK-005,50,2026-07-23,2026-07-23,on time,0
+SHP-323,Coastline Polymers,ACM-SLP-004,100,2026-07-24,2026-07-24,on time,0
+SHP-327,Ridgeback Textiles Ltd,ACM-TEN-001,200,2026-07-27,2026-08-02,delayed,6
+SHP-326,Bluegum Down Supply,ACM-SLP-001,150,2026-07-28,2026-07-28,on time,0
+SHP-328,Ridgeback Textiles Limited,ACM-APP-002,50,2026-07-29,2026-07-29,on time,0
+SHP-329,Bluegum Down Supply,ACM-SLP-002,50,2026-07-30,2026-07-31,on time,1
+SHP-331,Tussock Wool Mills,ACM-APP-006,150,2026-08-03,2026-08-07,delayed,4
+SHP-330,Ridgeback Textiles Ltd,ACM-TEN-001,200,2026-08-04,2026-08-04,on time,0
+SHP-332,Coastline Polymers,ACM-SLP-003,50,2026-08-04,2026-08-08,delayed,4
+SHP-333,Bluegum Down Supplies,ACM-FTW-001,200,2026-08-05,2026-08-11,delayed,6
+SHP-335,Ember Cookware Ltd,ACM-COK-001,150,2026-08-10,2026-08-11,on time,1
+SHP-334,Bluegum Down Supplies,ACM-FTW-001,50,2026-08-11,2026-08-13,delayed,2
+SHP-337,Bluegum Down Supply,ACM-SLP-001,150,2026-08-11,2026-08-11,on time,0
+SHP-336,Coastline Polymers,ACM-SLP-003,150,2026-08-14,2026-08-16,delayed,2
+SHP-339,Kiwi Canvas Works,ACM-TEN-005,150,2026-08-17,2026-08-17,on time,0
+SHP-338,Ember Cookware,ACM-COK-003,200,2026-08-18,2026-08-18,on time,0
+SHP-342,Alpine Loom Co,ACM-TEN-004,50,2026-08-25,2026-08-31,delayed,6
+SHP-341,Northfold Packs Ltd,ACM-PAK-003,100,2026-08-26,2026-08-26,on time,0
+SHP-343,Tussock Wool Mills,ACM-APP-004,100,2026-08-26,2026-08-26,on time,0
+SHP-340,Northfold Packs Limited,ACM-PAK-002,200,2026-08-28,2026-08-28,on time,0
+SHP-344,Kiwi Canvas Works,ACM-TEN-005,200,2026-09-03,2026-09-03,on time,0
+SHP-346,EMBER COOKWARE LTD,ACM-COK-003,200,2026-09-03,2026-09-03,on time,0
+SHP-345,Tussock Wool Mills,ACM-APP-004,50,2026-09-04,2026-09-04,on time,0
+SHP-349,EMBER COOKWARE LTD,ACM-COK-002,100,2026-09-10,2026-09-16,delayed,6
+SHP-347,Ember Cookware Ltd,ACM-COK-003,50,2026-09-11,2026-09-17,delayed,6
+SHP-348,Coastline Polymers,ACM-FTW-002,200,2026-09-11,2026-09-11,on time,0
+SHP-352,Tussock Wool Mills,ACM-APP-004,50,2026-09-14,2026-09-15,on time,1
+SHP-350,Coastline Polymers,ACM-SLP-003,100,2026-09-17,2026-09-17,on time,0
+SHP-351,Northfold Packs,ACM-PAK-002,200,2026-09-18,2026-09-18,on time,0
+SHP-354,Tussock Wool Mills,ACM-APP-006,200,2026-09-21,2026-09-21,on time,0
+SHP-353,Kiwi Canvas Works,ACM-TEN-005,200,2026-09-25,2026-09-25,on time,0
+SHP-355,Coastline Polymers,ACM-SLP-004,150,2026-09-29,2026-09-29,on time,0
+SHP-356,Alpine Loom Company,ACM-TEN-004,50,2026-09-30,2026-10-01,on time,1
+SHP-362,Ridgeback Textiles Limited,ACM-TEN-001,120,2026-10-06,2026-10-15,delayed,9
+SHP-363,RIDGEBACK TEXTILES,ACM-APP-001,200,2026-10-07,2026-10-15,delayed,8
+SHP-358,Kiwi Canvas Works,ACM-PAK-006,150,2026-10-08,2026-10-08,on time,0
+SHP-360,Ridgeback Textiles Ltd,ACM-TEN-002,150,2026-10-13,2026-10-13,on time,0
+SHP-361,Alpine Loom Co,ACM-APP-003,200,2026-10-15,2026-10-15,on time,0

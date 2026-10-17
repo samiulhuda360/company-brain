@@ -1,0 +1,31 @@
+sku,product_name,category,price_nzd,supplier_id
+ACM-TEN-001,Ridgeline 2P Tent,tents,489.00,S01
+ACM-TEN-002,Ridgeline 3P Tent,tents,629.00,S01
+ACM-TEN-003,Storm Shelter Fly,tents,149.00,S01
+ACM-APP-001,Tarn Rain Shell,apparel,259.00,S01
+ACM-APP-002,Basin Hiking Pants,apparel,119.00,S01
+ACM-TEN-004,Kepler Tent Poles,tents,89.00,S02
+ACM-APP-003,Alpine Base Layer,apparel,99.00,S02
+ACM-APP-004,Merino Hiking Socks,apparel,29.00,S03
+ACM-APP-005,Merino Beanie,apparel,39.00,S03
+ACM-APP-006,Merino Midlayer,apparel,169.00,S03
+ACM-PAK-001,Trailhead 45L Pack,packs,219.00,S04
+ACM-PAK-002,Trailhead 65L Pack,packs,289.00,S04
+ACM-PAK-003,Daytripper 22L Pack,packs,109.00,S04
+ACM-PAK-004,Summit Hydration Pack,packs,139.00,S04
+ACM-PAK-005,Kids Explorer Pack,packs,69.00,S04
+ACM-SLP-001,Aurora Down Bag -5C,sleeping,399.00,S05
+ACM-SLP-002,Aurora Down Bag 0C,sleeping,329.00,S05
+ACM-FTW-001,Down Hut Booties,footwear,79.00,S05
+ACM-SLP-003,Cloudrest Sleeping Mat,sleeping,149.00,S06
+ACM-SLP-004,Inflatable Camp Pillow,sleeping,35.00,S06
+ACM-FTW-002,Trail Runner Gaiters,footwear,49.00,S06
+ACM-FTW-003,Stream Crossing Sandals,footwear,89.00,S06
+ACM-TEN-005,Canvas Bell Tent,tents,899.00,S07
+ACM-PAK-006,Canvas Gear Bag,packs,79.00,S07
+ACM-TEN-006,Camp Kitchen Tarp,tents,129.00,S07
+ACM-COK-001,Ember Camp Stove,cooking,119.00,S08
+ACM-COK-002,Ember Titanium Pot,cooking,79.00,S08
+ACM-COK-003,Ember Mess Kit,cooking,49.00,S08
+ACM-COK-004,Ember Fuel Canister,cooking,12.00,S08
+ACM-COK-005,Ember Folding Spork,cooking,9.00,S08

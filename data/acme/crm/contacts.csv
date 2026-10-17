@@ -1,0 +1,80 @@
+contact_id,customer_id,full_name,email,role
+P001,C001,John Smith,john.smith@summittrail.example,Store Manager
+P002,C001,Toby Payne,toby.payne@summittrail.example,Owner
+P003,C001,Scott Gray,scott.gray@summittrail.example,Head of Outdoor Education
+P004,C002,Jack Booth,jack.booth@keakids.example,Head of Outdoor Education
+P005,C002,Toby Kemp,toby.kemp@keakids.example,Club Secretary
+P006,C003,Fiona Nash,fiona.nash@harboursideadventure.example,Club Secretary
+P007,C004,Natalie Read,natalie.read@riverstoneoutdoors.example,Operations Lead
+P008,C005,Alice Lamb,alice.lamb@riverstoneoutdoor.example,Operations Lead
+P009,C005,Mia Carter,mia.carter@riverstoneoutdoor.example,Club Secretary
+P010,C005,Mia Watts,mia.watts@riverstoneoutdoor.example,Head of Outdoor Education
+P011,C006,Toby Hayes,toby.hayes@glacierbay.example,Store Manager
+P012,C007,Ian Chambers,ian.chambers@tasmantramping.example,Club Secretary
+P013,C007,Hugo Blake,hugo.blake@tasmantramping.example,Owner
+P014,C008,Ivy Norris,ivy.norris@ironsandsurf.example,Head of Outdoor Education
+P015,C008,Will Fletcher,will.fletcher@ironsandsurf.example,Club Secretary
+P016,C009,Leah Booth,leah.booth@pinecresthigh.example,Operations Lead
+P017,C009,Ruby Parsons,ruby.parsons@pinecresthigh.example,Store Manager
+P018,C010,Nicole Barnes,nicole.barnes@totaravalley.example,Store Manager
+P019,C011,John Blake,john.blake@coastaledge.example,Head of Outdoor Education
+P020,C011,Nicole Holt,nicole.holt@coastaledge.example,Buyer
+P021,C012,Karen Payne,karen.payne@mountainmile.example,Head of Outdoor Education
+P022,C013,Dylan Hart,dylan.hart@waypointonline.example,Buyer
+P023,C013,Ian Cross,ian.cross@waypointonline.example,Head of Outdoor Education
+P024,C014,Felix Gray,felix.gray@kowhaicamping.example,Club Secretary
+P025,C015,Hugo Norris,hugo.norris@lakesideleisure.example,Owner
+P026,C015,Eve Norris,eve.norris@lakesideleisure.example,Owner
+P027,C015,Owen Doyle,owen.doyle@lakesideleisure.example,Store Manager
+P028,C016,Liam Rowe,liam.rowe@bluffroad.example,Buyer
+P029,C016,Abby Hayes,abby.hayes@bluffroad.example,Owner
+P030,C016,John Hart,john.hart@bluffroad.example,Store Manager
+P031,C017,Oscar Page,oscar.page@northernridge.example,Owner
+P032,C018,Phoebe Page,phoebe.page@driftwoodkayak.example,Club Secretary
+P033,C019,Victoria Booth,victoria.booth@redtussock.example,Head of Outdoor Education
+P034,C019,Oscar Ashby,oscar.ashby@redtussock.example,Owner
+P035,C020,Toby Wade,toby.wade@silverfern.example,Club Secretary
+P036,C021,Lucy Pearce,lucy.pearce@fiordlandexpeditions.example,Store Manager
+P037,C021,Greg Vaughan,greg.vaughan@fiordlandexpeditions.example,Operations Lead
+P038,C021,Victoria Ashby,victoria.ashby@fiordlandexpeditions.example,Operations Lead
+P039,C022,Max Carter,max.carter@capelight.example,Store Manager
+P040,C022,Max Harding,max.harding@capelight.example,Store Manager
+P041,C023,Max Read,max.read@granitepeak.example,Operations Lead
+P042,C024,Victoria Dunn,victoria.dunn@westlandwanderers.example,Buyer
+P043,C025,Mia Parsons,mia.parsons@harbourcity.example,Head of Outdoor Education
+P044,C025,Elise Cross,elise.cross@harbourcity.example,Buyer
+P045,C026,Dylan Lowe,dylan.lowe@rimugrove.example,Store Manager
+P046,C026,Hugo Parsons,hugo.parsons@rimugrove.example,Store Manager
+P047,C027,Jennifer Nash,jennifer.nash@basecampdirect.example,Club Secretary
+P048,C027,Victoria Lowe,victoria.lowe@basecampdirect.example,Operations Lead
+P049,C027,Abby Booth,abby.booth@basecampdirect.example,Club Secretary
+P050,C028,Oscar Pearce,oscar.pearce@mataistreet.example,Store Manager
+P051,C028,Greg Parsons,greg.parsons@mataistreet.example,Club Secretary
+P052,C029,Jack Burke,jack.burke@southernlakes.example,Club Secretary
+P053,C029,Dylan Page,dylan.page@southernlakes.example,Owner
+P054,C030,Mia Pearce,mia.pearce@pohutukawapaddlers.example,Operations Lead
+P055,C030,Helen Lamb,helen.lamb@pohutukawapaddlers.example,Operations Lead
+P056,C030,Owen Ashby,owen.ashby@pohutukawapaddlers.example,Store Manager
+P057,C031,Jack Pearce,jack.pearce@clearwateroutdoor.example,Operations Lead
+P058,C031,Hugo Wade,hugo.wade@clearwateroutdoor.example,Club Secretary
+P059,C031,Fiona Watts,fiona.watts@clearwateroutdoor.example,Store Manager
+P060,C032,Jennifer Barnes,jennifer.barnes@highcountry.example,Head of Outdoor Education
+P061,C032,Felix Barnes,felix.barnes@highcountry.example,Head of Outdoor Education
+P062,C033,Mia Barnes,mia.barnes@sandspitsurf.example,Head of Outdoor Education
+P063,C033,Jake Fletcher,jake.fletcher@sandspitsurf.example,Owner
+P064,C033,John Sutton,john.sutton@sandspitsurf.example,Head of Outdoor Education
+P065,C034,Noah Lowe,noah.lowe@moapoint.example,Store Manager
+P066,C034,Jennifer Holt,jennifer.holt@moapoint.example,Store Manager
+P067,C035,Freya Chambers,freya.chambers@twinrivers.example,Head of Outdoor Education
+P068,C035,Sam Holt,sam.holt@twinrivers.example,Head of Outdoor Education
+P069,C036,Ian Hayes,ian.hayes@trailheadcollective.example,Operations Lead
+P070,C036,Mia Wade,mia.wade@trailheadcollective.example,Operations Lead
+P071,C036,Caleb Dunn,caleb.dunn@trailheadcollective.example,Club Secretary
+P072,C037,Elise Barnes,elise.barnes@kaikouracoast.example,Head of Outdoor Education
+P073,C037,Freya Carter,freya.carter@kaikouracoast.example,Club Secretary
+P074,C038,Abby Smith,abby.smith@eastgatecamping.example,Store Manager
+P075,C038,Eve Page,eve.page@eastgatecamping.example,Operations Lead
+P076,C039,Jake Hayes,jake.hayes@hilltopharriers.example,Buyer
+P077,C040,Greg Gray,greg.gray@cloudlineonline.example,Owner
+P078,C040,Tessa Lowe,tessa.lowe@cloudlineonline.example,Buyer
+P079,C040,Kevin Sutton,kevin.sutton@cloudlineonline.example,Head of Outdoor Education

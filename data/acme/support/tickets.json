@@ -1,0 +1,2529 @@
+[
+ {
+  "ticket_id": "TCK-2001",
+  "opened": "2026-04-11",
+  "status": "closed",
+  "category": "question",
+  "priority": "high",
+  "company": "Clearwater Outdoor Centre",
+  "requester": {
+   "name": "Hugo Wade",
+   "email": "hugo.wade@clearwateroutdoor.example"
+  },
+  "assignee": "Josh Ellis",
+  "subject": "Stock question",
+  "body": "Do you have more Summit Hydration Pack coming in? Our last order was ORD-1006."
+ },
+ {
+  "ticket_id": "TCK-2002",
+  "opened": "2026-04-15",
+  "status": "closed",
+  "category": "question",
+  "priority": "high",
+  "company": "Totara Valley Scouts",
+  "requester": {
+   "name": "Nicole Barnes",
+   "email": "nicole.barnes@totaravalley.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Stock question",
+  "body": "Do you have more Merino Beanie coming in? Our last order was ORD-1004."
+ },
+ {
+  "ticket_id": "TCK-2003",
+  "opened": "2026-04-18",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Ironsand Surf and Trail Limited",
+  "requester": {
+   "name": "Ivy Norris",
+   "email": "ivy.norris@ironsandsurf.example"
+  },
+  "assignee": "Emma Wilson",
+  "subject": "Stock question",
+  "body": "Do you have more Kepler Tent Poles coming in? Our last order was ORD-1009."
+ },
+ {
+  "ticket_id": "TCK-2004",
+  "opened": "2026-04-22",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "low",
+  "company": "Clearwater Outdoor Centre",
+  "requester": {
+   "name": "JACK PEARCE"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Buckle broke",
+  "body": "Hi team, regarding order ORD-1006: the Summit Hydration Pack we received has a problem. Buckle broke. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2005",
+  "opened": "2026-04-24",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Lakeside Leisure Shop",
+  "requester": {
+   "name": "Hugo Norris",
+   "email": "hugo.norris@lakesideleisure.example"
+  },
+  "assignee": "N. Green",
+  "subject": "Wrong sizes received",
+  "body": "Hi team, regarding order ORD-1020: the Merino Beanie we received has a problem. Wrong sizes received. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2006",
+  "opened": "2026-04-25",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "harbour city climbing",
+  "requester": {
+   "name": "E. Cross",
+   "email": "elise.cross@harbourcity.example"
+  },
+  "assignee": "Emma Wilson",
+  "subject": "Return request",
+  "body": "We would like to return 4 x Inflatable Camp Pillow from ORD-1017. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2007",
+  "opened": "2026-04-26",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Harbour City Climbing",
+  "requester": {
+   "name": "Elise Cross",
+   "email": "elise.cross@harbourcity.example"
+  },
+  "assignee": "Sarah C.",
+  "subject": "Stock question",
+  "body": "Do you have more Merino Hiking Socks coming in? Our last order was ORD-1017."
+ },
+ {
+  "ticket_id": "TCK-2008",
+  "opened": "2026-04-27",
+  "status": "pending",
+  "category": "question",
+  "priority": "normal",
+  "company": "Tasman Tramping Club Limited",
+  "requester": {
+   "name": "Ian Chambers",
+   "email": "ian.chambers@tasmantramping.example"
+  },
+  "assignee": "Ryan Y.",
+  "subject": "Stock question",
+  "body": "Do you have more Ridgeline 2P Tent coming in? Our last order was ORD-1037."
+ },
+ {
+  "ticket_id": "TCK-2009",
+  "opened": "2026-05-02",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Cloudline Online",
+  "requester": {
+   "name": "Tessa Lowe",
+   "email": "tessa.lowe@cloudlineonline.example"
+  },
+  "assignee": "R. Young",
+  "subject": "Stock question",
+  "body": "Do you have more Ember Titanium Pot coming in? Our last order was ORD-1014."
+ },
+ {
+  "ticket_id": "TCK-2010",
+  "opened": "2026-05-02",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Eastgate Camping World Ltd",
+  "requester": {
+   "name": "E. Page",
+   "email": "eve.page@eastgatecamping.example"
+  },
+  "assignee": "Ryan Young",
+  "subject": "Jacket delaminating",
+  "body": "Hi team, regarding order ORD-1034: the Merino Midlayer we received has a problem. Jacket delaminating. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2011",
+  "opened": "2026-05-03",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "low",
+  "company": "Summit Trail Outfitters",
+  "requester": {
+   "name": "Payne, Toby",
+   "email": "TOBY.PAYNE@SUMMITTRAIL.EXAMPLE"
+  },
+  "assignee": "Sophie W.",
+  "subject": "Zip failure on fly",
+  "body": "Hi team, regarding order ORD-1022: the Storm Shelter Fly we received has a problem. Zip failure on fly. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2012",
+  "opened": "2026-05-03",
+  "status": "closed",
+  "category": "return",
+  "priority": "high",
+  "company": "Totara Valley Scouts Limited",
+  "requester": {
+   "name": "N. Barnes",
+   "email": "nicole.barnes@totaravalley.example"
+  },
+  "assignee": "E. Wilson",
+  "subject": "Return request",
+  "body": "We would like to return 5 x Merino Beanie from ORD-1018. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2013",
+  "opened": "2026-05-05",
+  "status": "pending",
+  "category": "question",
+  "priority": "high",
+  "company": "Harbour City Climbing",
+  "requester": {
+   "name": "Elise Cross",
+   "email": "elise.cross@harbourcity.example"
+  },
+  "assignee": "Ryan Young",
+  "subject": "Stock question",
+  "body": "Do you have more Merino Hiking Socks coming in? Our last order was ORD-1017."
+ },
+ {
+  "ticket_id": "TCK-2014",
+  "opened": "2026-05-05",
+  "status": "closed",
+  "category": "return",
+  "priority": "low",
+  "company": "Summit Trail Outfitters",
+  "requester": {
+   "name": "John Smith",
+   "email": "john.smith@summittrail.example"
+  },
+  "assignee": "Megan King",
+  "subject": "Return request",
+  "body": "We would like to return 1 x Ember Folding Spork from ORD-1041. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2015",
+  "opened": "2026-05-07",
+  "status": "closed",
+  "category": "question",
+  "priority": "high",
+  "company": "harbourside adventure store",
+  "requester": {
+   "name": "F. Nash",
+   "email": "fiona.nash@harboursideadventure.example"
+  },
+  "assignee": "Megan King",
+  "subject": "Stock question",
+  "body": "Do you have more Tarn Rain Shell coming in? Our last order was ORD-1026."
+ },
+ {
+  "ticket_id": "TCK-2016",
+  "opened": "2026-05-07",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Bluff Road Outdoors",
+  "requester": {
+   "name": "John Hart",
+   "email": "john.hart@bluffroad.example"
+  },
+  "assignee": "Megan King",
+  "subject": "Return request",
+  "body": "We would like to return 5 x Basin Hiking Pants from ORD-1038. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2017",
+  "opened": "2026-05-08",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "Westland Wanderers Limited",
+  "requester": {
+   "name": "Dunn, Victoria",
+   "email": "VICTORIA.DUNN@WESTLANDWANDERERS.EXAMPLE"
+  },
+  "assignee": "sophie.wright@acmeoutdoor.example",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Aurora Down Bag -5C bought through us (our order ORD-1027). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2018",
+  "opened": "2026-05-09",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "high",
+  "company": "summit trail outfitters",
+  "requester": {
+   "name": "TOBY PAYNE"
+  },
+  "assignee": "Ryan Y.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Ember Folding Spork bought through us (our order ORD-1041). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2019",
+  "opened": "2026-05-09",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Eastgate Camping World Limited",
+  "requester": {
+   "name": "Eve Page",
+   "email": "eve.page@eastgatecamping.example"
+  },
+  "assignee": "N. Green",
+  "subject": "Tent pole snapped",
+  "body": "Hi team, regarding order ORD-1045: the Storm Shelter Fly we received has a problem. Tent pole snapped. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2020",
+  "opened": "2026-05-10",
+  "status": "open",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "Harbourside Adventure Store Ltd",
+  "requester": {
+   "name": "FIONA NASH"
+  },
+  "assignee": "Josh E.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Cloudrest Sleeping Mat bought through us (our order ORD-1025). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2021",
+  "opened": "2026-05-10",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "low",
+  "company": "Sandspit Surf Shop",
+  "requester": {
+   "name": "Sutton, John",
+   "email": "JOHN.SUTTON@SANDSPITSURF.EXAMPLE"
+  },
+  "assignee": "Nathan Green",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Trail Runner Gaiters bought through us (our order ORD-1042). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2022",
+  "opened": "2026-05-12",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Westland Wanderers",
+  "requester": {
+   "name": "V. Dunn",
+   "email": "victoria.dunn@westlandwanderers.example"
+  },
+  "assignee": "Nathan G.",
+  "subject": "Return request",
+  "body": "We would like to return 4 x Aurora Down Bag -5C from ORD-1027. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2023",
+  "opened": "2026-05-12",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Westland Wanderers Ltd",
+  "requester": {
+   "name": "Victoria Dunn",
+   "email": "victoria.dunn@westlandwanderers.example"
+  },
+  "assignee": "S. Clarke",
+  "subject": "Return request",
+  "body": "We would like to return 2 x Ridgeline 3P Tent from ORD-1046. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2024",
+  "opened": "2026-05-13",
+  "status": "closed",
+  "category": "return",
+  "priority": "low",
+  "company": "HILLTOP HARRIERS",
+  "requester": {
+   "name": "JAKE HAYES"
+  },
+  "assignee": "sophie.wright@acmeoutdoor.example",
+  "subject": "Return request",
+  "body": "We would like to return 3 x Merino Beanie from ORD-1035. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2025",
+  "opened": "2026-05-14",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Eastgate Camping World",
+  "requester": {
+   "name": "Eve Page",
+   "email": "eve.page@eastgatecamping.example"
+  },
+  "assignee": "Amy M.",
+  "subject": "Return request",
+  "body": "We would like to return 10 x Merino Midlayer from ORD-1034. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2026",
+  "opened": "2026-05-14",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "trailhead collective",
+  "requester": {
+   "name": "CALEB DUNN"
+  },
+  "assignee": "Amy M.",
+  "subject": "Return request",
+  "body": "We would like to return 5 x Merino Hiking Socks from ORD-1049. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2027",
+  "opened": "2026-05-15",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Hilltop Harriers Limited",
+  "requester": {
+   "name": "Jake Hayes",
+   "email": "jake.hayes@hilltopharriers.example"
+  },
+  "assignee": "ryan.young@acmeoutdoor.example",
+  "subject": "Stock question",
+  "body": "Do you have more Daytripper 22L Pack coming in? Our last order was ORD-1035."
+ },
+ {
+  "ticket_id": "TCK-2028",
+  "opened": "2026-05-15",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Summit Trail Outfitters",
+  "requester": {
+   "name": "Smith, John",
+   "email": "john.smith@summittrail.example"
+  },
+  "assignee": "Sophie Wright",
+  "subject": "Return request",
+  "body": "We would like to return 3 x Canvas Bell Tent from ORD-1032. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2029",
+  "opened": "2026-05-16",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "high",
+  "company": "Trailhead Collective Limited",
+  "requester": {
+   "name": "Caleb Dunn",
+   "email": "caleb.dunn@trailheadcollective.example"
+  },
+  "assignee": "Ryan Y.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Storm Shelter Fly bought through us (our order ORD-1069). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2030",
+  "opened": "2026-05-18",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Southern Lakes Trading Ltd",
+  "requester": {
+   "name": "Jack Burke",
+   "email": "jack.burke@southernlakes.example"
+  },
+  "assignee": "Nathan G.",
+  "subject": "Pack frame bent in transit",
+  "body": "Hi team, regarding order ORD-1079: the Daytripper 22L Pack we received has a problem. Pack frame bent in transit. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2031",
+  "opened": "2026-05-20",
+  "status": "closed",
+  "category": "return",
+  "priority": "high",
+  "company": "tasman tramping club",
+  "requester": {
+   "name": "Hugo Blake",
+   "email": "hugo.blake@tasmantramping.example"
+  },
+  "assignee": "Sophie W.",
+  "subject": "Return request",
+  "body": "We would like to return 2 x Daytripper 22L Pack from ORD-1037. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2032",
+  "opened": "2026-05-21",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "clearwater outdoor centre",
+  "requester": {
+   "name": "FIONA WATTS"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Return request",
+  "body": "We would like to return 3 x Storm Shelter Fly from ORD-1065. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2033",
+  "opened": "2026-05-29",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "bluff road outdoors",
+  "requester": {
+   "name": "A. Hayes",
+   "email": "abby.hayes@bluffroad.example"
+  },
+  "assignee": "S. Wright",
+  "subject": "Stock question",
+  "body": "Do you have more Ridgeline 2P Tent coming in? Our last order was ORD-1071."
+ },
+ {
+  "ticket_id": "TCK-2034",
+  "opened": "2026-05-31",
+  "status": "open",
+  "category": "question",
+  "priority": "low",
+  "company": "harbour city climbing",
+  "requester": {
+   "name": "Elise Cross",
+   "email": "elise.cross@harbourcity.example"
+  },
+  "assignee": "Sophie W.",
+  "subject": "Stock question",
+  "body": "Do you have more Trail Runner Gaiters coming in? Our last order was ORD-1097."
+ },
+ {
+  "ticket_id": "TCK-2035",
+  "opened": "2026-05-31",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Northern Ridge Alpine Club",
+  "requester": {
+   "name": "Oscar Page",
+   "email": "oscar.page@northernridge.example"
+  },
+  "assignee": "Emma W.",
+  "subject": "Pack frame bent in transit",
+  "body": "Hi team, regarding order ORD-1064: the Summit Hydration Pack we received has a problem. Pack frame bent in transit. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2036",
+  "opened": "2026-05-31",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Southern Lakes Trading",
+  "requester": {
+   "name": "Jack Burke",
+   "email": "jack.burke@southernlakes.example"
+  },
+  "assignee": "Josh Ellis",
+  "subject": "Stock question",
+  "body": "Do you have more Ridgeline 2P Tent coming in? Our last order was ORD-1099."
+ },
+ {
+  "ticket_id": "TCK-2037",
+  "opened": "2026-05-31",
+  "status": "closed",
+  "category": "return",
+  "priority": "high",
+  "company": "Totara Valley Scouts Ltd",
+  "requester": {
+   "name": "Nicole Barnes",
+   "email": "nicole.barnes@totaravalley.example"
+  },
+  "assignee": "S. Clarke",
+  "subject": "Return request",
+  "body": "We would like to return 2 x Inflatable Camp Pillow from ORD-1066. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2038",
+  "opened": "2026-06-01",
+  "status": "open",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Southern Lakes Trading Limited",
+  "requester": {
+   "name": "D. Page",
+   "email": "dylan.page@southernlakes.example"
+  },
+  "assignee": "J. Ellis",
+  "subject": "Pack frame bent in transit",
+  "body": "Hi team, regarding order ORD-1099: the Summit Hydration Pack we received has a problem. Pack frame bent in transit. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2039",
+  "opened": "2026-06-01",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "TRAILHEAD COLLECTIVE",
+  "requester": {
+   "name": "C. Dunn",
+   "email": "caleb.dunn@trailheadcollective.example"
+  },
+  "assignee": "Sophie W.",
+  "subject": "Seam leaking after first trip",
+  "body": "Hi team, regarding order ORD-1069: the Storm Shelter Fly we received has a problem. Seam leaking after first trip. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2040",
+  "opened": "2026-06-01",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "Lakeside Leisure Shop",
+  "requester": {
+   "name": "Doyle, Owen",
+   "email": "owen.doyle@lakesideleisure.example"
+  },
+  "assignee": "S. Wright",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Merino Midlayer bought through us (our order ORD-1098). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2041",
+  "opened": "2026-06-03",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "low",
+  "company": "silver fern gear hub",
+  "requester": {
+   "name": "Toby Wade",
+   "email": "toby.wade@silverfern.example"
+  },
+  "assignee": "Sophie Wright",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Summit Hydration Pack bought through us (our order ORD-1062). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2042",
+  "opened": "2026-06-03",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "SOUTHERN LAKES TRADING",
+  "requester": {
+   "name": "Page, Dylan",
+   "email": "dylan.page@southernlakes.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Camp Kitchen Tarp bought through us (our order ORD-1079). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2043",
+  "opened": "2026-06-04",
+  "status": "pending",
+  "category": "warranty",
+  "priority": "low",
+  "company": "cloudline online",
+  "requester": {
+   "name": "Tessa Lowe",
+   "email": "tessa.lowe@cloudlineonline.example"
+  },
+  "assignee": "Amy M.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Ridgeline 3P Tent bought through us (our order ORD-1105). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2044",
+  "opened": "2026-06-04",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "clearwater outdoor centre",
+  "requester": {
+   "name": "Pearce, Jack",
+   "email": "jack.pearce@clearwateroutdoor.example"
+  },
+  "assignee": "nathan.green@acmeoutdoor.example",
+  "subject": "Stock question",
+  "body": "Do you have more Merino Midlayer coming in? Our last order was ORD-1104."
+ },
+ {
+  "ticket_id": "TCK-2045",
+  "opened": "2026-06-04",
+  "status": "closed",
+  "category": "question",
+  "priority": "high",
+  "company": "Totara Valley Scouts",
+  "requester": {
+   "name": "NICOLE BARNES"
+  },
+  "assignee": "ryan.young@acmeoutdoor.example",
+  "subject": "Stock question",
+  "body": "Do you have more Kepler Tent Poles coming in? Our last order was ORD-1103."
+ },
+ {
+  "ticket_id": "TCK-2046",
+  "opened": "2026-06-05",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Glacier Bay Supplies",
+  "requester": {
+   "name": "Hayes, Toby",
+   "email": "TOBY.HAYES@GLACIERBAY.EXAMPLE"
+  },
+  "assignee": "Ryan Young",
+  "subject": "Valve leaking",
+  "body": "Hi team, regarding order ORD-1088: the Aurora Down Bag 0C we received has a problem. Valve leaking. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2047",
+  "opened": "2026-06-08",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "lakeside leisure shop",
+  "requester": {
+   "name": "Eve Norris",
+   "email": "eve.norris@lakesideleisure.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Buckle broke",
+  "body": "Hi team, regarding order ORD-1101: the Kids Explorer Pack we received has a problem. Buckle broke. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2048",
+  "opened": "2026-06-08",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Glacier Bay Supplies",
+  "requester": {
+   "name": "Toby Hayes",
+   "email": "toby.hayes@glacierbay.example"
+  },
+  "assignee": "Megan K.",
+  "subject": "Return request",
+  "body": "We would like to return 10 x Storm Shelter Fly from ORD-1091. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2049",
+  "opened": "2026-06-08",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "glacier bay supplies",
+  "requester": {
+   "name": "Toby Hayes",
+   "email": "toby.hayes@glacierbay.example"
+  },
+  "assignee": "Emma Wilson",
+  "subject": "Stitching coming apart",
+  "body": "Hi team, regarding order ORD-1070: the Merino Midlayer we received has a problem. Stitching coming apart. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2050",
+  "opened": "2026-06-09",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Bluff Road Outdoors",
+  "requester": {
+   "name": "Liam Rowe",
+   "email": "liam.rowe@bluffroad.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Seam leaking after first trip",
+  "body": "Hi team, regarding order ORD-1071: the Ridgeline 2P Tent we received has a problem. Seam leaking after first trip. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2051",
+  "opened": "2026-06-09",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "Riverstone Outdoor Club",
+  "requester": {
+   "name": "Mia Watts",
+   "email": "mia.watts@riverstoneoutdoor.example"
+  },
+  "assignee": "amy.morris@acmeoutdoor.example",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Tarn Rain Shell bought through us (our order ORD-1083). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2052",
+  "opened": "2026-06-10",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "low",
+  "company": "Westland Wanderers",
+  "requester": {
+   "name": "Victoria Dunn",
+   "email": "victoria.dunn@westlandwanderers.example"
+  },
+  "assignee": "A. Morris",
+  "subject": "Pot handle loose",
+  "body": "Hi team, regarding order ORD-1094: the Ember Titanium Pot we received has a problem. Pot handle loose. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2053",
+  "opened": "2026-06-10",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "DRIFTWOOD KAYAK HIRE",
+  "requester": {
+   "name": "Phoebe Page",
+   "email": "phoebe.page@driftwoodkayak.example"
+  },
+  "assignee": "Nathan Green",
+  "subject": "Stock question",
+  "body": "Do you have more Camp Kitchen Tarp coming in? Our last order was ORD-1115."
+ },
+ {
+  "ticket_id": "TCK-2054",
+  "opened": "2026-06-12",
+  "status": "open",
+  "category": "return",
+  "priority": "low",
+  "company": "Lakeside Leisure Shop",
+  "requester": {
+   "name": "Owen Doyle",
+   "email": "owen.doyle@lakesideleisure.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Return request",
+  "body": "We would like to return 5 x Basin Hiking Pants from ORD-1113. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2055",
+  "opened": "2026-06-13",
+  "status": "open",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "SOUTHERN LAKES TRADING",
+  "requester": {
+   "name": "Dylan Page",
+   "email": "dylan.page@southernlakes.example"
+  },
+  "assignee": "Emma W.",
+  "subject": "Hip belt strap torn",
+  "body": "Hi team, regarding order ORD-1099: the Summit Hydration Pack we received has a problem. Hip belt strap torn. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2056",
+  "opened": "2026-06-15",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Riverstone Outdoor Club",
+  "requester": {
+   "name": "Alice Lamb",
+   "email": "alice.lamb@riverstoneoutdoor.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Pot handle loose",
+  "body": "Hi team, regarding order ORD-1083: the Ember Fuel Canister we received has a problem. Pot handle loose. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2057",
+  "opened": "2026-06-15",
+  "status": "closed",
+  "category": "return",
+  "priority": "low",
+  "company": "Basecamp Direct Ltd",
+  "requester": {
+   "name": "Lowe, Victoria",
+   "email": "victoria.lowe@basecampdirect.example"
+  },
+  "assignee": "S. Clarke",
+  "subject": "Return request",
+  "body": "We would like to return 3 x Trail Runner Gaiters from ORD-1106. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2058",
+  "opened": "2026-06-15",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Summit Trail Outfitters",
+  "requester": {
+   "name": "Payne, Toby",
+   "email": "TOBY.PAYNE@SUMMITTRAIL.EXAMPLE"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Return request",
+  "body": "We would like to return 3 x Canvas Bell Tent from ORD-1116. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2059",
+  "opened": "2026-06-18",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Driftwood Kayak Hire Ltd",
+  "requester": {
+   "name": "Phoebe Page",
+   "email": "phoebe.page@driftwoodkayak.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Down clumping after wash",
+  "body": "Hi team, regarding order ORD-1119: the Cloudrest Sleeping Mat we received has a problem. Down clumping after wash. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2060",
+  "opened": "2026-06-18",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "Totara Valley Scouts",
+  "requester": {
+   "name": "Barnes, Nicole",
+   "email": "nicole.barnes@totaravalley.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Kepler Tent Poles bought through us (our order ORD-1103). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2061",
+  "opened": "2026-06-19",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "low",
+  "company": "Fiordland Expeditions Store Limited",
+  "requester": {
+   "name": "L. Pearce",
+   "email": "lucy.pearce@fiordlandexpeditions.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Tent pole snapped",
+  "body": "Hi team, regarding order ORD-1123: the Camp Kitchen Tarp we received has a problem. Tent pole snapped. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2062",
+  "opened": "2026-06-20",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Lakeside Leisure Shop",
+  "requester": {
+   "name": "OWEN DOYLE"
+  },
+  "assignee": "Ryan Young",
+  "subject": "Stock question",
+  "body": "Do you have more Basin Hiking Pants coming in? Our last order was ORD-1113."
+ },
+ {
+  "ticket_id": "TCK-2063",
+  "opened": "2026-06-21",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "High Country Hikers",
+  "requester": {
+   "name": "J. Barnes",
+   "email": "jennifer.barnes@highcountry.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Inflatable Camp Pillow bought through us (our order ORD-1131). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2064",
+  "opened": "2026-06-22",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "high",
+  "company": "Riverstone Outdoor Club Limited",
+  "requester": {
+   "name": "M. Watts",
+   "email": "mia.watts@riverstoneoutdoor.example"
+  },
+  "assignee": "Josh E.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Ridgeline 2P Tent bought through us (our order ORD-1133). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2065",
+  "opened": "2026-06-25",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Cloudline Online Ltd",
+  "requester": {
+   "name": "Tessa Lowe",
+   "email": "tessa.lowe@cloudlineonline.example"
+  },
+  "assignee": "Sophie Wright",
+  "subject": "Seam leaking after first trip",
+  "body": "Hi team, regarding order ORD-1135: the Canvas Bell Tent we received has a problem. Seam leaking after first trip. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2066",
+  "opened": "2026-06-27",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "High Country Hikers",
+  "requester": {
+   "name": "Felix Barnes",
+   "email": "felix.barnes@highcountry.example"
+  },
+  "assignee": "S. Clarke",
+  "subject": "Sole separating",
+  "body": "Hi team, regarding order ORD-1131: the Trail Runner Gaiters we received has a problem. Sole separating. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2067",
+  "opened": "2026-06-27",
+  "status": "closed",
+  "category": "question",
+  "priority": "low",
+  "company": "driftwood kayak hire",
+  "requester": {
+   "name": "Phoebe Page",
+   "email": "phoebe.page@driftwoodkayak.example"
+  },
+  "assignee": "Megan K.",
+  "subject": "Stock question",
+  "body": "Do you have more Ember Mess Kit coming in? Our last order was ORD-1142."
+ },
+ {
+  "ticket_id": "TCK-2068",
+  "opened": "2026-06-28",
+  "status": "pending",
+  "category": "question",
+  "priority": "low",
+  "company": "TASMAN TRAMPING CLUB",
+  "requester": {
+   "name": "Ian Chambers",
+   "email": "ian.chambers@tasmantramping.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Stock question",
+  "body": "Do you have more Ridgeline 2P Tent coming in? Our last order was ORD-1127."
+ },
+ {
+  "ticket_id": "TCK-2069",
+  "opened": "2026-07-04",
+  "status": "closed",
+  "category": "question",
+  "priority": "high",
+  "company": "Summit Trail Outfitters",
+  "requester": {
+   "name": "J. Smith",
+   "email": "john.smith@summittrail.example"
+  },
+  "assignee": "Nathan G.",
+  "subject": "Stock question",
+  "body": "Do you have more Ember Titanium Pot coming in? Our last order was ORD-1147."
+ },
+ {
+  "ticket_id": "TCK-2070",
+  "opened": "2026-07-05",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Fiordland Expeditions Store",
+  "requester": {
+   "name": "V. Ashby",
+   "email": "victoria.ashby@fiordlandexpeditions.example"
+  },
+  "assignee": "Sophie W.",
+  "subject": "Zip failure on fly",
+  "body": "Hi team, regarding order ORD-1123: the Camp Kitchen Tarp we received has a problem. Zip failure on fly. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2071",
+  "opened": "2026-07-06",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Cape Light Camping",
+  "requester": {
+   "name": "M. Carter",
+   "email": "max.carter@capelight.example"
+  },
+  "assignee": "Megan King",
+  "subject": "Stock question",
+  "body": "Do you have more Ember Mess Kit coming in? Our last order was ORD-1151."
+ },
+ {
+  "ticket_id": "TCK-2072",
+  "opened": "2026-07-06",
+  "status": "open",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Granite Peak Outfitters",
+  "requester": {
+   "name": "Max Read",
+   "email": "max.read@granitepeak.example"
+  },
+  "assignee": "Ryan Young",
+  "subject": "Buckle broke",
+  "body": "Hi team, regarding order ORD-1126: the Summit Hydration Pack we received has a problem. Buckle broke. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2073",
+  "opened": "2026-07-09",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Driftwood Kayak Hire",
+  "requester": {
+   "name": "PHOEBE PAGE"
+  },
+  "assignee": "Emma Wilson",
+  "subject": "Return request",
+  "body": "We would like to return 3 x Kepler Tent Poles from ORD-1156. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2074",
+  "opened": "2026-07-09",
+  "status": "closed",
+  "category": "return",
+  "priority": "low",
+  "company": "Harbourside Adventure Store",
+  "requester": {
+   "name": "Fiona Nash",
+   "email": "fiona.nash@harboursideadventure.example"
+  },
+  "assignee": "Nathan Green",
+  "subject": "Return request",
+  "body": "We would like to return 5 x Merino Midlayer from ORD-1149. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2075",
+  "opened": "2026-07-09",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "DRIFTWOOD KAYAK HIRE",
+  "requester": {
+   "name": "P. Page",
+   "email": "phoebe.page@driftwoodkayak.example"
+  },
+  "assignee": "N. Green",
+  "subject": "Return request",
+  "body": "We would like to return 3 x Kepler Tent Poles from ORD-1156. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2076",
+  "opened": "2026-07-11",
+  "status": "closed",
+  "category": "return",
+  "priority": "high",
+  "company": "Driftwood Kayak Hire",
+  "requester": {
+   "name": "Page, Phoebe",
+   "email": "PHOEBE.PAGE@DRIFTWOODKAYAK.EXAMPLE"
+  },
+  "assignee": "Josh Ellis",
+  "subject": "Return request",
+  "body": "We would like to return 3 x Merino Midlayer from ORD-1156. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2077",
+  "opened": "2026-07-13",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "low",
+  "company": "Pohutukawa Paddlers Limited",
+  "requester": {
+   "name": "Mia Pearce",
+   "email": "mia.pearce@pohutukawapaddlers.example"
+  },
+  "assignee": "Ryan Y.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Canvas Bell Tent bought through us (our order ORD-1138). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2078",
+  "opened": "2026-07-16",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "high country hikers",
+  "requester": {
+   "name": "Felix Barnes",
+   "email": "felix.barnes@highcountry.example"
+  },
+  "assignee": "J. Ellis",
+  "subject": "Return request",
+  "body": "We would like to return 10 x Inflatable Camp Pillow from ORD-1131. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2079",
+  "opened": "2026-07-16",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Pohutukawa Paddlers Limited",
+  "requester": {
+   "name": "Pearce, Mia",
+   "email": "mia.pearce@pohutukawapaddlers.example"
+  },
+  "assignee": "J. Ellis",
+  "subject": "Tent pole snapped",
+  "body": "Hi team, regarding order ORD-1138: the Canvas Bell Tent we received has a problem. Tent pole snapped. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2080",
+  "opened": "2026-07-17",
+  "status": "closed",
+  "category": "question",
+  "priority": "low",
+  "company": "HARBOURSIDE ADVENTURE STORE",
+  "requester": {
+   "name": "F. Nash",
+   "email": "fiona.nash@harboursideadventure.example"
+  },
+  "assignee": "Josh Ellis",
+  "subject": "Stock question",
+  "body": "Do you have more Merino Midlayer coming in? Our last order was ORD-1149."
+ },
+ {
+  "ticket_id": "TCK-2081",
+  "opened": "2026-07-18",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "Glacier Bay Supplies Ltd",
+  "requester": {
+   "name": "T. Hayes",
+   "email": "toby.hayes@glacierbay.example"
+  },
+  "assignee": "Nathan G.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Kepler Tent Poles bought through us (our order ORD-1140). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2082",
+  "opened": "2026-07-18",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "high",
+  "company": "Granite Peak Outfitters",
+  "requester": {
+   "name": "MAX READ"
+  },
+  "assignee": "ryan.young@acmeoutdoor.example",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Merino Beanie bought through us (our order ORD-1179). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2083",
+  "opened": "2026-07-20",
+  "status": "pending",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Pohutukawa Paddlers",
+  "requester": {
+   "name": "Helen Lamb",
+   "email": "helen.lamb@pohutukawapaddlers.example"
+  },
+  "assignee": "josh.ellis@acmeoutdoor.example",
+  "subject": "Mat will not hold air",
+  "body": "Hi team, regarding order ORD-1152: the Aurora Down Bag -5C we received has a problem. Mat will not hold air. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2084",
+  "opened": "2026-07-22",
+  "status": "closed",
+  "category": "question",
+  "priority": "high",
+  "company": "Basecamp Direct",
+  "requester": {
+   "name": "A. Booth",
+   "email": "abby.booth@basecampdirect.example"
+  },
+  "assignee": "Josh E.",
+  "subject": "Stock question",
+  "body": "Do you have more Aurora Down Bag -5C coming in? Our last order was ORD-1155."
+ },
+ {
+  "ticket_id": "TCK-2085",
+  "opened": "2026-07-23",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Driftwood Kayak Hire",
+  "requester": {
+   "name": "Phoebe Page",
+   "email": "phoebe.page@driftwoodkayak.example"
+  },
+  "assignee": "A. Morris",
+  "subject": "Jacket delaminating",
+  "body": "Hi team, regarding order ORD-1156: the Merino Midlayer we received has a problem. Jacket delaminating. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2086",
+  "opened": "2026-07-25",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Ironsand Surf and Trail Ltd",
+  "requester": {
+   "name": "Will Fletcher",
+   "email": "will.fletcher@ironsandsurf.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Stock question",
+  "body": "Do you have more Basin Hiking Pants coming in? Our last order was ORD-1160."
+ },
+ {
+  "ticket_id": "TCK-2087",
+  "opened": "2026-07-26",
+  "status": "open",
+  "category": "warranty",
+  "priority": "low",
+  "company": "Tasman Tramping Club",
+  "requester": {
+   "name": "Blake, Hugo",
+   "email": "hugo.blake@tasmantramping.example"
+  },
+  "assignee": "emma.wilson@acmeoutdoor.example",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Daytripper 22L Pack bought through us (our order ORD-1178). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2088",
+  "opened": "2026-07-27",
+  "status": "open",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "Glacier Bay Supplies Limited",
+  "requester": {
+   "name": "Toby Hayes",
+   "email": "toby.hayes@glacierbay.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Ember Titanium Pot bought through us (our order ORD-1148). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2089",
+  "opened": "2026-07-28",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Coastal Edge Sports",
+  "requester": {
+   "name": "Blake, John",
+   "email": "john.blake@coastaledge.example"
+  },
+  "assignee": "Megan K.",
+  "subject": "Zip failure on fly",
+  "body": "Hi team, regarding order ORD-1187: the Ridgeline 3P Tent we received has a problem. Zip failure on fly. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2090",
+  "opened": "2026-07-28",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Pohutukawa Paddlers",
+  "requester": {
+   "name": "Owen Ashby",
+   "email": "owen.ashby@pohutukawapaddlers.example"
+  },
+  "assignee": "emma.wilson@acmeoutdoor.example",
+  "subject": "Zip failure on fly",
+  "body": "Hi team, regarding order ORD-1154: the Ridgeline 2P Tent we received has a problem. Zip failure on fly. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2091",
+  "opened": "2026-07-29",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Pohutukawa Paddlers",
+  "requester": {
+   "name": "Owen Ashby",
+   "email": "owen.ashby@pohutukawapaddlers.example"
+  },
+  "assignee": "J. Ellis",
+  "subject": "Canister thread damaged",
+  "body": "Hi team, regarding order ORD-1171: the Ember Mess Kit we received has a problem. Canister thread damaged. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2092",
+  "opened": "2026-07-29",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Ironsand Surf and Trail",
+  "requester": {
+   "name": "WILL FLETCHER"
+  },
+  "assignee": "sarah.clarke@acmeoutdoor.example",
+  "subject": "Mat will not hold air",
+  "body": "Hi team, regarding order ORD-1193: the Aurora Down Bag -5C we received has a problem. Mat will not hold air. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2093",
+  "opened": "2026-07-31",
+  "status": "open",
+  "category": "return",
+  "priority": "normal",
+  "company": "Silver Fern Gear Hub Limited",
+  "requester": {
+   "name": "Toby Wade",
+   "email": "toby.wade@silverfern.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Return request",
+  "body": "We would like to return 6 x Kids Explorer Pack from ORD-1196. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2094",
+  "opened": "2026-07-31",
+  "status": "closed",
+  "category": "question",
+  "priority": "high",
+  "company": "eastgate camping world",
+  "requester": {
+   "name": "Page, Eve",
+   "email": "eve.page@eastgatecamping.example"
+  },
+  "assignee": "E. Wilson",
+  "subject": "Stock question",
+  "body": "Do you have more Aurora Down Bag -5C coming in? Our last order was ORD-1157."
+ },
+ {
+  "ticket_id": "TCK-2095",
+  "opened": "2026-07-31",
+  "status": "closed",
+  "category": "question",
+  "priority": "low",
+  "company": "Tasman Tramping Club",
+  "requester": {
+   "name": "Chambers, Ian",
+   "email": "ian.chambers@tasmantramping.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Stock question",
+  "body": "Do you have more Daytripper 22L Pack coming in? Our last order was ORD-1178."
+ },
+ {
+  "ticket_id": "TCK-2096",
+  "opened": "2026-08-01",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Pinecrest High School",
+  "requester": {
+   "name": "R. Parsons",
+   "email": "ruby.parsons@pinecresthigh.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Stock question",
+  "body": "Do you have more Ember Titanium Pot coming in? Our last order was ORD-1201."
+ },
+ {
+  "ticket_id": "TCK-2097",
+  "opened": "2026-08-06",
+  "status": "open",
+  "category": "question",
+  "priority": "normal",
+  "company": "NORTHERN RIDGE ALPINE CLUB",
+  "requester": {
+   "name": "Oscar Page",
+   "email": "oscar.page@northernridge.example"
+  },
+  "assignee": "Nathan G.",
+  "subject": "Stock question",
+  "body": "Do you have more Daytripper 22L Pack coming in? Our last order was ORD-1168."
+ },
+ {
+  "ticket_id": "TCK-2098",
+  "opened": "2026-08-07",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "low",
+  "company": "Westland Wanderers Limited",
+  "requester": {
+   "name": "Victoria Dunn",
+   "email": "victoria.dunn@westlandwanderers.example"
+  },
+  "assignee": "Ryan Young",
+  "subject": "Sizes run small",
+  "body": "Hi team, regarding order ORD-1188: the Stream Crossing Sandals we received has a problem. Sizes run small. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2099",
+  "opened": "2026-08-09",
+  "status": "closed",
+  "category": "return",
+  "priority": "high",
+  "company": "WAYPOINT ONLINE",
+  "requester": {
+   "name": "Ian Cross",
+   "email": "ian.cross@waypointonline.example"
+  },
+  "assignee": "Sarah C.",
+  "subject": "Return request",
+  "body": "We would like to return 2 x Kids Explorer Pack from ORD-1183. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2100",
+  "opened": "2026-08-09",
+  "status": "closed",
+  "category": "question",
+  "priority": "high",
+  "company": "Red Tussock Retail Ltd",
+  "requester": {
+   "name": "VICTORIA BOOTH"
+  },
+  "assignee": "Emma W.",
+  "subject": "Stock question",
+  "body": "Do you have more Kepler Tent Poles coming in? Our last order was ORD-1195."
+ },
+ {
+  "ticket_id": "TCK-2101",
+  "opened": "2026-08-10",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Pinecrest High School",
+  "requester": {
+   "name": "Leah Booth",
+   "email": "leah.booth@pinecresthigh.example"
+  },
+  "assignee": "S. Clarke",
+  "subject": "Canister thread damaged",
+  "body": "Hi team, regarding order ORD-1201: the Ember Titanium Pot we received has a problem. Canister thread damaged. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2102",
+  "opened": "2026-08-10",
+  "status": "closed",
+  "category": "return",
+  "priority": "high",
+  "company": "FIORDLAND EXPEDITIONS STORE",
+  "requester": {
+   "name": "Greg Vaughan",
+   "email": "greg.vaughan@fiordlandexpeditions.example"
+  },
+  "assignee": "Megan K.",
+  "subject": "Return request",
+  "body": "We would like to return 5 x Aurora Down Bag -5C from ORD-1177. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2103",
+  "opened": "2026-08-12",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "low",
+  "company": "Cape Light Camping",
+  "requester": {
+   "name": "Max Harding",
+   "email": "max.harding@capelight.example"
+  },
+  "assignee": "Ryan Young",
+  "subject": "Mat will not hold air",
+  "body": "Hi team, regarding order ORD-1223: the Cloudrest Sleeping Mat we received has a problem. Mat will not hold air. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2104",
+  "opened": "2026-08-12",
+  "status": "closed",
+  "category": "return",
+  "priority": "low",
+  "company": "Northern Ridge Alpine Club",
+  "requester": {
+   "name": "O. Page",
+   "email": "oscar.page@northernridge.example"
+  },
+  "assignee": "nathan.green@acmeoutdoor.example",
+  "subject": "Return request",
+  "body": "We would like to return 10 x Canvas Bell Tent from ORD-1194. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2105",
+  "opened": "2026-08-15",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "coastal edge sports",
+  "requester": {
+   "name": "Holt, Nicole",
+   "email": "nicole.holt@coastaledge.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Seam leaking after first trip",
+  "body": "Hi team, regarding order ORD-1187: the Storm Shelter Fly we received has a problem. Seam leaking after first trip. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2106",
+  "opened": "2026-08-15",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "low",
+  "company": "westland wanderers",
+  "requester": {
+   "name": "Dunn, Victoria",
+   "email": "victoria.dunn@westlandwanderers.example"
+  },
+  "assignee": "Megan K.",
+  "subject": "Sizes run small",
+  "body": "Hi team, regarding order ORD-1188: the Stream Crossing Sandals we received has a problem. Sizes run small. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2107",
+  "opened": "2026-08-17",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "low",
+  "company": "Red Tussock Retail",
+  "requester": {
+   "name": "Victoria Booth",
+   "email": "victoria.booth@redtussock.example"
+  },
+  "assignee": "S. Wright",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Trailhead 65L Pack bought through us (our order ORD-1229). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2108",
+  "opened": "2026-08-18",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "pohutukawa paddlers",
+  "requester": {
+   "name": "Mia Pearce",
+   "email": "mia.pearce@pohutukawapaddlers.example"
+  },
+  "assignee": "Amy M.",
+  "subject": "Buckle broke",
+  "body": "Hi team, regarding order ORD-1217: the Canvas Gear Bag we received has a problem. Buckle broke. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2109",
+  "opened": "2026-08-18",
+  "status": "closed",
+  "category": "return",
+  "priority": "high",
+  "company": "Silver Fern Gear Hub Ltd",
+  "requester": {
+   "name": "Toby Wade",
+   "email": "toby.wade@silverfern.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Return request",
+  "body": "We would like to return 5 x Ember Titanium Pot from ORD-1196. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2110",
+  "opened": "2026-08-19",
+  "status": "pending",
+  "category": "return",
+  "priority": "normal",
+  "company": "kowhai camping co",
+  "requester": {
+   "name": "FELIX GRAY"
+  },
+  "assignee": "sophie.wright@acmeoutdoor.example",
+  "subject": "Return request",
+  "body": "We would like to return 10 x Ember Camp Stove from ORD-1224. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2111",
+  "opened": "2026-08-20",
+  "status": "pending",
+  "category": "question",
+  "priority": "normal",
+  "company": "Silver Fern Gear Hub Ltd",
+  "requester": {
+   "name": "Wade, Toby",
+   "email": "toby.wade@silverfern.example"
+  },
+  "assignee": "J. Ellis",
+  "subject": "Stock question",
+  "body": "Do you have more Down Hut Booties coming in? Our last order was ORD-1205."
+ },
+ {
+  "ticket_id": "TCK-2112",
+  "opened": "2026-08-20",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Eastgate Camping World Limited",
+  "requester": {
+   "name": "Smith, Abby",
+   "email": "abby.smith@eastgatecamping.example"
+  },
+  "assignee": "Ryan Young",
+  "subject": "Jacket delaminating",
+  "body": "Hi team, regarding order ORD-1198: the Tarn Rain Shell we received has a problem. Jacket delaminating. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2113",
+  "opened": "2026-08-23",
+  "status": "open",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "POHUTUKAWA PADDLERS",
+  "requester": {
+   "name": "Owen Ashby",
+   "email": "owen.ashby@pohutukawapaddlers.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Buckle broke",
+  "body": "Hi team, regarding order ORD-1217: the Canvas Gear Bag we received has a problem. Buckle broke. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2114",
+  "opened": "2026-08-23",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Rimu Grove College",
+  "requester": {
+   "name": "DYLAN LOWE"
+  },
+  "assignee": "Ryan Young",
+  "subject": "Seam leaking after first trip",
+  "body": "Hi team, regarding order ORD-1228: the Canvas Bell Tent we received has a problem. Seam leaking after first trip. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2115",
+  "opened": "2026-08-24",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "low",
+  "company": "Kowhai Camping Co",
+  "requester": {
+   "name": "Felix Gray",
+   "email": "felix.gray@kowhaicamping.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Stove not igniting",
+  "body": "Hi team, regarding order ORD-1224: the Ember Camp Stove we received has a problem. Stove not igniting. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2116",
+  "opened": "2026-08-27",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "high",
+  "company": "Silver Fern Gear Hub",
+  "requester": {
+   "name": "Toby Wade",
+   "email": "toby.wade@silverfern.example"
+  },
+  "assignee": "N. Green",
+  "subject": "Down clumping after wash",
+  "body": "Hi team, regarding order ORD-1236: the Aurora Down Bag -5C we received has a problem. Down clumping after wash. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2117",
+  "opened": "2026-08-27",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "KOWHAI CAMPING CO",
+  "requester": {
+   "name": "Gray, Felix",
+   "email": "felix.gray@kowhaicamping.example"
+  },
+  "assignee": "Emma W.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Ember Camp Stove bought through us (our order ORD-1224). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2118",
+  "opened": "2026-08-28",
+  "status": "closed",
+  "category": "question",
+  "priority": "high",
+  "company": "Summit Trail Outfitters Limited",
+  "requester": {
+   "name": "Scott Gray",
+   "email": "scott.gray@summittrail.example"
+  },
+  "assignee": "Amy M.",
+  "subject": "Stock question",
+  "body": "Do you have more Kids Explorer Pack coming in? Our last order was ORD-1216."
+ },
+ {
+  "ticket_id": "TCK-2119",
+  "opened": "2026-08-29",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "high",
+  "company": "HARBOURSIDE ADVENTURE STORE",
+  "requester": {
+   "name": "Nash, Fiona",
+   "email": "fiona.nash@harboursideadventure.example"
+  },
+  "assignee": "Sophie Wright",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Tarn Rain Shell bought through us (our order ORD-1246). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2120",
+  "opened": "2026-08-29",
+  "status": "closed",
+  "category": "return",
+  "priority": "low",
+  "company": "Pohutukawa Paddlers Ltd",
+  "requester": {
+   "name": "Owen Ashby",
+   "email": "owen.ashby@pohutukawapaddlers.example"
+  },
+  "assignee": "R. Young",
+  "subject": "Return request",
+  "body": "We would like to return 6 x Cloudrest Sleeping Mat from ORD-1212. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2121",
+  "opened": "2026-08-30",
+  "status": "open",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Harbour City Climbing",
+  "requester": {
+   "name": "ELISE CROSS"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Zip failure on fly",
+  "body": "Hi team, regarding order ORD-1238: the Kepler Tent Poles we received has a problem. Zip failure on fly. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2122",
+  "opened": "2026-08-30",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "Summit Trail Outfitters",
+  "requester": {
+   "name": "Scott Gray",
+   "email": "scott.gray@summittrail.example"
+  },
+  "assignee": "Megan K.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Daytripper 22L Pack bought through us (our order ORD-1219). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2123",
+  "opened": "2026-08-31",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Trailhead Collective Ltd",
+  "requester": {
+   "name": "C. Dunn",
+   "email": "caleb.dunn@trailheadcollective.example"
+  },
+  "assignee": "megan.king@acmeoutdoor.example",
+  "subject": "Stock question",
+  "body": "Do you have more Aurora Down Bag -5C coming in? Our last order was ORD-1230."
+ },
+ {
+  "ticket_id": "TCK-2124",
+  "opened": "2026-09-01",
+  "status": "closed",
+  "category": "question",
+  "priority": "normal",
+  "company": "Riverstone Outdoors",
+  "requester": {
+   "name": "N. Read",
+   "email": "natalie.read@riverstoneoutdoors.example"
+  },
+  "assignee": "M. King",
+  "subject": "Stock question",
+  "body": "Do you have more Kids Explorer Pack coming in? Our last order was ORD-1244."
+ },
+ {
+  "ticket_id": "TCK-2125",
+  "opened": "2026-09-01",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "high",
+  "company": "Summit Trail Outfitters",
+  "requester": {
+   "name": "Scott Gray",
+   "email": "scott.gray@summittrail.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Storm Shelter Fly bought through us (our order ORD-1219). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2126",
+  "opened": "2026-09-03",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "low",
+  "company": "Silver Fern Gear Hub",
+  "requester": {
+   "name": "Toby Wade",
+   "email": "toby.wade@silverfern.example"
+  },
+  "assignee": "nathan.green@acmeoutdoor.example",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Ember Mess Kit bought through us (our order ORD-1236). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2127",
+  "opened": "2026-09-04",
+  "status": "closed",
+  "category": "return",
+  "priority": "high",
+  "company": "TRAILHEAD COLLECTIVE",
+  "requester": {
+   "name": "Mia Wade",
+   "email": "mia.wade@trailheadcollective.example"
+  },
+  "assignee": "ryan.young@acmeoutdoor.example",
+  "subject": "Return request",
+  "body": "We would like to return 3 x Merino Beanie from ORD-1259. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2128",
+  "opened": "2026-09-05",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "hilltop harriers",
+  "requester": {
+   "name": "Jake Hayes",
+   "email": "jake.hayes@hilltopharriers.example"
+  },
+  "assignee": "S. Clarke",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Cloudrest Sleeping Mat bought through us (our order ORD-1237). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2129",
+  "opened": "2026-09-08",
+  "status": "closed",
+  "category": "question",
+  "priority": "low",
+  "company": "Mountain Mile Gear",
+  "requester": {
+   "name": "K. Payne",
+   "email": "karen.payne@mountainmile.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Stock question",
+  "body": "Do you have more Daytripper 22L Pack coming in? Our last order was ORD-1235."
+ },
+ {
+  "ticket_id": "TCK-2130",
+  "opened": "2026-09-08",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "hilltop harriers",
+  "requester": {
+   "name": "Jake Hayes",
+   "email": "jake.hayes@hilltopharriers.example"
+  },
+  "assignee": "Amy M.",
+  "subject": "Mat will not hold air",
+  "body": "Hi team, regarding order ORD-1237: the Cloudrest Sleeping Mat we received has a problem. Mat will not hold air. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2131",
+  "opened": "2026-09-10",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Driftwood Kayak Hire",
+  "requester": {
+   "name": "PHOEBE PAGE"
+  },
+  "assignee": "S. Wright",
+  "subject": "Canister thread damaged",
+  "body": "Hi team, regarding order ORD-1256: the Ember Camp Stove we received has a problem. Canister thread damaged. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2132",
+  "opened": "2026-09-11",
+  "status": "open",
+  "category": "return",
+  "priority": "normal",
+  "company": "Riverstone Outdoor Club",
+  "requester": {
+   "name": "M. Watts",
+   "email": "mia.watts@riverstoneoutdoor.example"
+  },
+  "assignee": "Emma Wilson",
+  "subject": "Return request",
+  "body": "We would like to return 1 x Basin Hiking Pants from ORD-1255. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2133",
+  "opened": "2026-09-14",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "Cloudline Online Limited",
+  "requester": {
+   "name": "GREG GRAY"
+  },
+  "assignee": "ryan.young@acmeoutdoor.example",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Kepler Tent Poles bought through us (our order ORD-1239). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2134",
+  "opened": "2026-09-15",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "hilltop harriers",
+  "requester": {
+   "name": "Jake Hayes",
+   "email": "jake.hayes@hilltopharriers.example"
+  },
+  "assignee": "josh.ellis@acmeoutdoor.example",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Cloudrest Sleeping Mat bought through us (our order ORD-1237). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2135",
+  "opened": "2026-09-16",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Cloudline Online Ltd",
+  "requester": {
+   "name": "KEVIN SUTTON"
+  },
+  "assignee": "Nathan G.",
+  "subject": "Zip failure on fly",
+  "body": "Hi team, regarding order ORD-1239: the Kepler Tent Poles we received has a problem. Zip failure on fly. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2136",
+  "opened": "2026-09-18",
+  "status": "closed",
+  "category": "return",
+  "priority": "high",
+  "company": "Red Tussock Retail",
+  "requester": {
+   "name": "Victoria Booth",
+   "email": "victoria.booth@redtussock.example"
+  },
+  "assignee": "amy.morris@acmeoutdoor.example",
+  "subject": "Return request",
+  "body": "We would like to return 2 x Kids Explorer Pack from ORD-1283. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2137",
+  "opened": "2026-09-20",
+  "status": "closed",
+  "category": "warranty",
+  "priority": "low",
+  "company": "Cloudline Online",
+  "requester": {
+   "name": "K. Sutton",
+   "email": "kevin.sutton@cloudlineonline.example"
+  },
+  "assignee": "Emma Wilson",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Ember Titanium Pot bought through us (our order ORD-1247). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2138",
+  "opened": "2026-09-23",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Bluff Road Outdoors",
+  "requester": {
+   "name": "JOHN HART"
+  },
+  "assignee": "amy.morris@acmeoutdoor.example",
+  "subject": "Return request",
+  "body": "We would like to return 2 x Kids Explorer Pack from ORD-1249. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2139",
+  "opened": "2026-09-24",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Summit Trail Outfitters",
+  "requester": {
+   "name": "Toby Payne",
+   "email": "toby.payne@summittrail.example"
+  },
+  "assignee": "S. Clarke",
+  "subject": "Canister thread damaged",
+  "body": "Hi team, regarding order ORD-1265: the Ember Titanium Pot we received has a problem. Canister thread damaged. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2140",
+  "opened": "2026-09-25",
+  "status": "open",
+  "category": "question",
+  "priority": "high",
+  "company": "Moa Point Adventure Limited",
+  "requester": {
+   "name": "Jennifer Holt",
+   "email": "jennifer.holt@moapoint.example"
+  },
+  "assignee": "Amy M.",
+  "subject": "Stock question",
+  "body": "Do you have more Kids Explorer Pack coming in? Our last order was ORD-1297."
+ },
+ {
+  "ticket_id": "TCK-2141",
+  "opened": "2026-09-26",
+  "status": "pending",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "totara valley scouts",
+  "requester": {
+   "name": "Nicole Barnes",
+   "email": "nicole.barnes@totaravalley.example"
+  },
+  "assignee": "emma.wilson@acmeoutdoor.example",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Tarn Rain Shell bought through us (our order ORD-1295). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2142",
+  "opened": "2026-09-26",
+  "status": "pending",
+  "category": "return",
+  "priority": "high",
+  "company": "Lakeside Leisure Shop Ltd",
+  "requester": {
+   "name": "Owen Doyle",
+   "email": "owen.doyle@lakesideleisure.example"
+  },
+  "assignee": "Amy Morris",
+  "subject": "Return request",
+  "body": "We would like to return 2 x Ember Fuel Canister from ORD-1304. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2143",
+  "opened": "2026-09-28",
+  "status": "open",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "twin rivers school",
+  "requester": {
+   "name": "Chambers, Freya",
+   "email": "FREYA.CHAMBERS@TWINRIVERS.EXAMPLE"
+  },
+  "assignee": "Nathan G.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Ridgeline 3P Tent bought through us (our order ORD-1266). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2144",
+  "opened": "2026-09-28",
+  "status": "open",
+  "category": "question",
+  "priority": "high",
+  "company": "Clearwater Outdoor Centre",
+  "requester": {
+   "name": "Pearce, Jack",
+   "email": "JACK.PEARCE@CLEARWATEROUTDOOR.EXAMPLE"
+  },
+  "assignee": "Josh Ellis",
+  "subject": "Stock question",
+  "body": "Do you have more Cloudrest Sleeping Mat coming in? Our last order was ORD-1298."
+ },
+ {
+  "ticket_id": "TCK-2145",
+  "opened": "2026-09-29",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "northern ridge alpine club",
+  "requester": {
+   "name": "OSCAR PAGE"
+  },
+  "assignee": "Nathan Green",
+  "subject": "Pot handle loose",
+  "body": "Hi team, regarding order ORD-1289: the Ember Fuel Canister we received has a problem. Pot handle loose. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2146",
+  "opened": "2026-09-29",
+  "status": "open",
+  "category": "question",
+  "priority": "normal",
+  "company": "sandspit surf shop",
+  "requester": {
+   "name": "Jake Fletcher",
+   "email": "jake.fletcher@sandspitsurf.example"
+  },
+  "assignee": "E. Wilson",
+  "subject": "Stock question",
+  "body": "Do you have more Storm Shelter Fly coming in? Our last order was ORD-1262."
+ },
+ {
+  "ticket_id": "TCK-2147",
+  "opened": "2026-09-29",
+  "status": "open",
+  "category": "question",
+  "priority": "normal",
+  "company": "Summit Trail Outfitters Ltd",
+  "requester": {
+   "name": "Scott Gray",
+   "email": "scott.gray@summittrail.example"
+  },
+  "assignee": "Sophie Wright",
+  "subject": "Stock question",
+  "body": "Do you have more Ridgeline 2P Tent coming in? Our last order was ORD-1267."
+ },
+ {
+  "ticket_id": "TCK-2148",
+  "opened": "2026-09-30",
+  "status": "pending",
+  "category": "question",
+  "priority": "normal",
+  "company": "Trailhead Collective",
+  "requester": {
+   "name": "Caleb Dunn",
+   "email": "caleb.dunn@trailheadcollective.example"
+  },
+  "assignee": "Ryan Young",
+  "subject": "Stock question",
+  "body": "Do you have more Camp Kitchen Tarp coming in? Our last order was ORD-1259."
+ },
+ {
+  "ticket_id": "TCK-2149",
+  "opened": "2026-10-01",
+  "status": "open",
+  "category": "warranty",
+  "priority": "low",
+  "company": "Bluff Road Outdoors Limited",
+  "requester": {
+   "name": "John Hart",
+   "email": "john.hart@bluffroad.example"
+  },
+  "assignee": "N. Green",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Merino Midlayer bought through us (our order ORD-1281). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2150",
+  "opened": "2026-10-03",
+  "status": "pending",
+  "category": "return",
+  "priority": "normal",
+  "company": "Totara Valley Scouts",
+  "requester": {
+   "name": "Nicole Barnes",
+   "email": "nicole.barnes@totaravalley.example"
+  },
+  "assignee": "emma.wilson@acmeoutdoor.example",
+  "subject": "Return request",
+  "body": "We would like to return 2 x Ember Camp Stove from ORD-1280. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2151",
+  "opened": "2026-10-03",
+  "status": "open",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Summit Trail Outfitters",
+  "requester": {
+   "name": "Smith, John",
+   "email": "JOHN.SMITH@SUMMITTRAIL.EXAMPLE"
+  },
+  "assignee": "Nathan Green",
+  "subject": "Buckle broke",
+  "body": "Hi team, regarding order ORD-1271: the Kids Explorer Pack we received has a problem. Buckle broke. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2152",
+  "opened": "2026-10-03",
+  "status": "open",
+  "category": "warranty",
+  "priority": "low",
+  "company": "Waypoint Online",
+  "requester": {
+   "name": "DYLAN HART"
+  },
+  "assignee": "Megan K.",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Stream Crossing Sandals bought through us (our order ORD-1302). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2153",
+  "opened": "2026-10-04",
+  "status": "pending",
+  "category": "return",
+  "priority": "normal",
+  "company": "WESTLAND WANDERERS",
+  "requester": {
+   "name": "Victoria Dunn",
+   "email": "victoria.dunn@westlandwanderers.example"
+  },
+  "assignee": "Emma Wilson",
+  "subject": "Return request",
+  "body": "We would like to return 4 x Ridgeline 3P Tent from ORD-1282. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2154",
+  "opened": "2026-10-06",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Cloudline Online",
+  "requester": {
+   "name": "Tessa Lowe",
+   "email": "tessa.lowe@cloudlineonline.example"
+  },
+  "assignee": "megan.king@acmeoutdoor.example",
+  "subject": "Return request",
+  "body": "We would like to return 2 x Down Hut Booties from ORD-1321. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2155",
+  "opened": "2026-10-12",
+  "status": "open",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Fiordland Expeditions Store",
+  "requester": {
+   "name": "L. Pearce",
+   "email": "lucy.pearce@fiordlandexpeditions.example"
+  },
+  "assignee": "Megan King",
+  "subject": "Hip belt strap torn",
+  "body": "Hi team, regarding order ORD-1330: the Daytripper 22L Pack we received has a problem. Hip belt strap torn. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2156",
+  "opened": "2026-10-12",
+  "status": "open",
+  "category": "complaint",
+  "priority": "low",
+  "company": "Glacier Bay Supplies",
+  "requester": {
+   "name": "Hayes, Toby",
+   "email": "toby.hayes@glacierbay.example"
+  },
+  "assignee": "emma.wilson@acmeoutdoor.example",
+  "subject": "Canister thread damaged",
+  "body": "Hi team, regarding order ORD-1310: the Ember Mess Kit we received has a problem. Canister thread damaged. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2157",
+  "opened": "2026-10-12",
+  "status": "open",
+  "category": "warranty",
+  "priority": "low",
+  "company": "Lakeside Leisure Shop",
+  "requester": {
+   "name": "EVE NORRIS"
+  },
+  "assignee": "R. Young",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Daytripper 22L Pack bought through us (our order ORD-1333). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2158",
+  "opened": "2026-10-12",
+  "status": "open",
+  "category": "question",
+  "priority": "normal",
+  "company": "Northern Ridge Alpine Club",
+  "requester": {
+   "name": "Oscar Page",
+   "email": "oscar.page@northernridge.example"
+  },
+  "assignee": "emma.wilson@acmeoutdoor.example",
+  "subject": "Stock question",
+  "body": "Do you have more Ember Fuel Canister coming in? Our last order was ORD-1289."
+ },
+ {
+  "ticket_id": "TCK-2159",
+  "opened": "2026-10-13",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Waypoint Online",
+  "requester": {
+   "name": "Dylan Hart",
+   "email": "dylan.hart@waypointonline.example"
+  },
+  "assignee": "Nathan Green",
+  "subject": "Pack frame bent in transit",
+  "body": "Hi team, regarding order ORD-1323: the Daytripper 22L Pack we received has a problem. Pack frame bent in transit. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2160",
+  "opened": "2026-10-13",
+  "status": "open",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Northern Ridge Alpine Club",
+  "requester": {
+   "name": "Oscar Page",
+   "email": "oscar.page@northernridge.example"
+  },
+  "assignee": "Nathan Green",
+  "subject": "Mat will not hold air",
+  "body": "Hi team, regarding order ORD-1312: the Inflatable Camp Pillow we received has a problem. Mat will not hold air. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2161",
+  "opened": "2026-10-13",
+  "status": "closed",
+  "category": "complaint",
+  "priority": "low",
+  "company": "Waypoint Online",
+  "requester": {
+   "name": "Dylan Hart",
+   "email": "dylan.hart@waypointonline.example"
+  },
+  "assignee": "A. Morris",
+  "subject": "Strap broke",
+  "body": "Hi team, regarding order ORD-1302: the Stream Crossing Sandals we received has a problem. Strap broke. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2162",
+  "opened": "2026-10-13",
+  "status": "open",
+  "category": "return",
+  "priority": "low",
+  "company": "Glacier Bay Supplies",
+  "requester": {
+   "name": "Hayes, Toby",
+   "email": "toby.hayes@glacierbay.example"
+  },
+  "assignee": "Sarah Clarke",
+  "subject": "Return request",
+  "body": "We would like to return 3 x Ember Mess Kit from ORD-1310. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2163",
+  "opened": "2026-10-13",
+  "status": "closed",
+  "category": "return",
+  "priority": "normal",
+  "company": "Southern Lakes Trading",
+  "requester": {
+   "name": "Burke, Jack",
+   "email": "jack.burke@southernlakes.example"
+  },
+  "assignee": "Nathan Green",
+  "subject": "Return request",
+  "body": "We would like to return 4 x Merino Hiking Socks from ORD-1332. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2164",
+  "opened": "2026-10-14",
+  "status": "open",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Mountain Mile Gear Limited",
+  "requester": {
+   "name": "Karen Payne",
+   "email": "karen.payne@mountainmile.example"
+  },
+  "assignee": "N. Green",
+  "subject": "Jacket delaminating",
+  "body": "Hi team, regarding order ORD-1322: the Tarn Rain Shell we received has a problem. Jacket delaminating. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2165",
+  "opened": "2026-10-14",
+  "status": "pending",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "SANDSPIT SURF SHOP",
+  "requester": {
+   "name": "Mia Barnes",
+   "email": "mia.barnes@sandspitsurf.example"
+  },
+  "assignee": "Emma Wilson",
+  "subject": "Valve leaking",
+  "body": "Hi team, regarding order ORD-1343: the Aurora Down Bag -5C we received has a problem. Valve leaking. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2166",
+  "opened": "2026-10-14",
+  "status": "open",
+  "category": "return",
+  "priority": "low",
+  "company": "summit trail outfitters",
+  "requester": {
+   "name": "J. Smith",
+   "email": "john.smith@summittrail.example"
+  },
+  "assignee": "A. Morris",
+  "subject": "Return request",
+  "body": "We would like to return 2 x Alpine Base Layer from ORD-1345. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2167",
+  "opened": "2026-10-14",
+  "status": "pending",
+  "category": "complaint",
+  "priority": "normal",
+  "company": "Kowhai Camping Company",
+  "requester": {
+   "name": "F. Gray",
+   "email": "felix.gray@kowhaicamping.example"
+  },
+  "assignee": "Emma Wilson",
+  "subject": "Jacket delaminating",
+  "body": "Hi team, regarding order ORD-1329: the Basin Hiking Pants we received has a problem. Jacket delaminating. Please advise on a replacement."
+ },
+ {
+  "ticket_id": "TCK-2168",
+  "opened": "2026-10-15",
+  "status": "pending",
+  "category": "return",
+  "priority": "normal",
+  "company": "Northern Ridge Alpine Club",
+  "requester": {
+   "name": "OSCAR PAGE"
+  },
+  "assignee": "josh.ellis@acmeoutdoor.example",
+  "subject": "Return request",
+  "body": "We would like to return 5 x Kepler Tent Poles from ORD-1326. They are unused and still boxed."
+ },
+ {
+  "ticket_id": "TCK-2169",
+  "opened": "2026-10-15",
+  "status": "open",
+  "category": "warranty",
+  "priority": "normal",
+  "company": "basecamp direct",
+  "requester": {
+   "name": "Victoria Lowe",
+   "email": "victoria.lowe@basecampdirect.example"
+  },
+  "assignee": "Sophie Wright",
+  "subject": "Warranty claim",
+  "body": "A customer brought back a Aurora Down Bag 0C bought through us (our order ORD-1342). Is this covered by warranty?"
+ },
+ {
+  "ticket_id": "TCK-2170",
+  "opened": "2026-10-15",
+  "status": "open",
+  "category": "question",
+  "priority": "normal",
+  "company": "Harbour City Climbing Ltd",
+  "requester": {
+   "name": "M. Parsons",
+   "email": "mia.parsons@harbourcity.example"
+  },
+  "assignee": "R. Young",
+  "subject": "Stock question",
+  "body": "Do you have more Storm Shelter Fly coming in? Our last order was ORD-1331."
+ }
+]
