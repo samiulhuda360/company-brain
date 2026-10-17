@@ -752,7 +752,7 @@ def _csv(path: Path, header: list[str], rows: list[list[object]]) -> None:
     wr.writerow(header)
     wr.writerows(rows)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(buf.getvalue(), encoding="utf-8")
+    path.write_text(buf.getvalue(), encoding="utf-8", newline="\n")
 
 
 def _attendee_text(w: World, eid: str, rnd: random.Random) -> str:
@@ -935,7 +935,7 @@ def write_meetings(w: World, root: Path, rnd: random.Random) -> None:
         lines += ["", "## Next meeting", "", "Same time next fortnight."]
         path = root / m.file
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
         for e in m.attendees:
             w.mentions.append(Mention(m.file, m.attendee_line, "attendee", "Employee", w.employees[e].name, e))
 
@@ -1045,7 +1045,7 @@ def write_policies(w: World, root: Path) -> None:
             lines.append(para)
             if para.startswith("#"):
                 lines.append("")
-        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
         p.owner_line = next(i for i, ln in enumerate(lines, start=1) if ln.startswith("Owner:"))
         for prop, (val, phrase) in POLICY_ATTRS.get(pid, {}).items():
             p.attrs[prop] = (val, next(i for i, ln in enumerate(lines, start=1) if phrase in ln))
@@ -1106,7 +1106,7 @@ def write_sources(w: World, root: Path) -> None:
             }
         )
     (root / "support").mkdir(parents=True, exist_ok=True)
-    (root / "support/tickets.json").write_text(json.dumps(tickets, indent=1) + "\n", encoding="utf-8")
+    (root / "support/tickets.json").write_text(json.dumps(tickets, indent=1) + "\n", encoding="utf-8", newline="\n")
     teams_out: list[dict[str, object]] = []
     for team in TEAMS:
         members = []
@@ -1118,7 +1118,7 @@ def write_sources(w: World, root: Path) -> None:
         teams_out.append({"team": team, "members": members})
     org = {"company": "Acme Outdoor Gear", "teams": teams_out}
     (root / "org").mkdir(parents=True, exist_ok=True)
-    (root / "org/org_chart.json").write_text(json.dumps(org, indent=1) + "\n", encoding="utf-8")
+    (root / "org/org_chart.json").write_text(json.dumps(org, indent=1) + "\n", encoding="utf-8", newline="\n")
     write_meetings(w, root, rnd)
     write_policies(w, root)
 
