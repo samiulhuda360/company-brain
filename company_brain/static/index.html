@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>company-brain</title>
+<style>
+  :root {
+    --bg: #f5f4ef; --surface: #ffffff; --surface-2: #f0efe8; --ink: #1d2b29; --muted: #5f7471; --line: #dcdfd8;
+    --teal: #2f6f68; --teal-soft: #e3f0ec; --sand: #b8924f; --rust: #b4533a; --focus: #2f6f68;
+    --shadow: 0 1px 2px rgba(29, 43, 41, .06), 0 4px 16px rgba(29, 43, 41, .05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #141a19; --surface: #1b2322; --surface-2: #222c2a; --ink: #e4ebe8; --muted: #9db0ab; --line: #31403d;
+      --teal: #5fb3a8; --teal-soft: #1f3532; --sand: #d3b073; --rust: #e0866d; --shadow: none;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; }
+  header { display: flex; align-items: center; gap: 16px; padding: 14px 24px; border-bottom: 1px solid var(--line); background: var(--surface); flex-wrap: wrap; }
+  .brand { font-weight: 700; font-size: 18px; letter-spacing: -.01em; display: flex; align-items: center; gap: 10px; }
+  .brand svg { width: 26px; height: 26px; }
+  .org { color: var(--muted); font-size: 14px; }
+  .stats { margin-left: auto; display: flex; gap: 8px; flex-wrap: wrap; }
+  .chip { font-size: 12.5px; padding: 3px 10px; border-radius: 999px; background: var(--surface-2); color: var(--muted); border: 1px solid var(--line); }
+  main { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: 20px; padding: 20px 24px 40px; max-width: 1500px; margin: 0 auto; }
+  @media (max-width: 1000px) { main { grid-template-columns: 1fr; padding: 16px; } header { padding: 12px 16px; } }
+  section.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: 18px 20px; min-width: 0; }
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 12px; font-weight: 600; }
+  textarea, input[type=search] { width: 100%; font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+  textarea { min-height: 72px; resize: vertical; }
+  textarea:focus, input:focus, button:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+  .row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 10px; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .seg button { border: 0; background: var(--surface); color: var(--muted); padding: 7px 12px; font: inherit; font-size: 13.5px; cursor: pointer; }
+  .seg button[aria-pressed=true] { background: var(--teal-soft); color: var(--teal); font-weight: 600; }
+  .primary { margin-left: auto; background: var(--teal); color: #fff; border: 0; border-radius: 8px; padding: 8px 18px; font: inherit; font-weight: 600; cursor: pointer; }
+  [data-theme] .primary, .primary { color: #fff; }
+  .examples { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+  .examples button { text-align: left; border: 1px dashed var(--line); background: transparent; color: var(--muted); border-radius: 8px; padding: 5px 9px; font: inherit; font-size: 12.5px; cursor: pointer; }
+  .examples button:hover { color: var(--teal); border-color: var(--teal); }
+  .answer { margin-top: 18px; border-top: 1px solid var(--line); padding-top: 16px; }
+  .answer .text { font-size: 18px; font-weight: 600; line-height: 1.4; white-space: pre-wrap; }
+  .badge { display: inline-block; font-size: 11.5px; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--teal-soft); color: var(--teal); margin-right: 6px; }
+  .badge.rag { background: color-mix(in srgb, var(--sand) 18%, transparent); color: var(--sand); }
+  .badge.method-model { background: color-mix(in srgb, var(--sand) 18%, transparent); color: var(--sand); }
+  .badge.method-rule { background: var(--surface-2); color: var(--muted); }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 6px; }
+  details { margin-top: 10px; } summary { cursor: pointer; color: var(--muted); font-size: 13px; }
+  pre { background: var(--surface-2); border-radius: 8px; padding: 10px 12px; overflow-x: auto; font: 12.5px/1.5 "Cascadia Mono", Consolas, monospace; margin: 8px 0 0; }
+  .cites { list-style: none; padding: 0; margin: 12px 0 0; display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; max-height: 430px; overflow: auto; }
+  .cites li { min-width: 0; }
+  .cites li button { width: 100%; text-align: left; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; cursor: pointer; color: var(--ink); font: inherit; }
+  .cites li button:hover { border-color: var(--teal); }
+  .loc { font-weight: 600; font-size: 13px; } .snip { color: var(--muted); font-size: 12.5px; display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .search { position: relative; }
+  .results { position: absolute; z-index: 5; left: 0; right: 0; top: 44px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; box-shadow: var(--shadow); max-height: 320px; overflow: auto; display: none; }
+  .results button { display: flex; gap: 8px; width: 100%; border: 0; background: transparent; text-align: left; padding: 8px 12px; cursor: pointer; font: inherit; color: var(--ink); }
+  .results button:hover { background: var(--surface-2); }
+  .type { font-size: 11px; font-weight: 600; color: #fff; border-radius: 4px; padding: 1px 6px; align-self: center; }
+  .graph-wrap { margin-top: 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); }
+  svg#graph { width: 100%; height: 470px; display: block; }
+  svg text { font: 12px "Segoe UI", system-ui, sans-serif; fill: var(--ink); }
+  svg .rel { font-size: 10px; fill: var(--muted); }
+  svg .node { cursor: pointer; }
+  svg .node:hover circle { stroke-width: 3; }
+  .legend { display: flex; flex-wrap: wrap; gap: 10px; padding: 8px 12px; border-top: 1px solid var(--line); font-size: 12px; color: var(--muted); }
+  .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 4px; vertical-align: -1px; }
+  .entity-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
+  .entity-head h3 { margin: 0; font-size: 20px; }
+  table { border-collapse: collapse; width: 100%; font-size: 13.5px; margin-top: 10px; }
+  td, th { border-bottom: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; font-size: 12px; }
+  .src { border: 0; background: none; color: var(--teal); cursor: pointer; font: inherit; font-size: 12.5px; padding: 0; text-decoration: underline; text-underline-offset: 2px; }
+  .aka { color: var(--muted); font-size: 13px; margin-top: 8px; }
+  dialog { border: 1px solid var(--line); border-radius: 12px; padding: 0; width: min(900px, calc(100vw - 32px)); background: var(--surface); color: var(--ink); box-shadow: 0 20px 60px rgba(0,0,0,.25); }
+  dialog::backdrop { background: rgba(20, 26, 25, .45); }
+  .dlg-head { display: flex; align-items: center; gap: 10px; padding: 12px 16px; border-bottom: 1px solid var(--line); }
+  .dlg-head strong { font-size: 14.5px; } .dlg-head button { margin-left: auto; border: 1px solid var(--line); background: var(--surface-2); color: var(--ink); border-radius: 6px; padding: 4px 10px; cursor: pointer; font: inherit; }
+  .dlg-body { padding: 12px 16px 16px; max-height: 70vh; overflow: auto; }
+  .hit { background: color-mix(in srgb, var(--sand) 25%, transparent); }
+  .ln { color: var(--muted); width: 3em; text-align: right; padding-right: 10px; user-select: none; }
+  .codeline { font: 12.5px/1.6 "Cascadia Mono", Consolas, monospace; white-space: pre-wrap; }
+  .empty { color: var(--muted); font-size: 14px; padding: 30px 0; text-align: center; }
+  .spinner { color: var(--muted); font-size: 14px; margin-top: 14px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="brand" aria-label="company-brain">
+    <svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="#2f6f68"/><g stroke="#e3f0ec" stroke-width="2" fill="none"><path d="M9 20l7-9 7 9"/><path d="M12 16h8"/></g><g fill="#f5f4ef"><circle cx="9" cy="20" r="2.4"/><circle cx="16" cy="11" r="2.4"/><circle cx="23" cy="20" r="2.4"/></g></svg>
+    company-brain
+  </div>
+  <span class="org">Acme Outdoor Gear · everything the company knows, linked and cited</span>
+  <div class="stats" id="stats"></div>
+</header>
+<main>
+  <section class="card" aria-labelledby="ask-h">
+    <h2 id="ask-h">Ask a question</h2>
+    <textarea id="q" placeholder="e.g. Which customers have an open complaint about a product from the supplier whose shipment was delayed last week?"></textarea>
+    <div class="row">
+      <div class="seg" role="group" aria-label="Answer mode">
+        <button data-mode="hybrid" aria-pressed="true">Hybrid</button>
+        <button data-mode="graph" aria-pressed="false">Graph only</button>
+        <button data-mode="rag" aria-pressed="false">Plain RAG</button>
+      </div>
+      <button class="primary" id="ask">Ask</button>
+    </div>
+    <div class="examples" id="examples"></div>
+    <div id="answer"></div>
+  </section>
+  <section class="card" aria-labelledby="ex-h">
+    <h2 id="ex-h">Explore the graph</h2>
+    <div class="search">
+      <input type="search" id="find" placeholder="Search a customer, supplier, person, order, ticket..." autocomplete="off">
+      <div class="results" id="results"></div>
+    </div>
+    <div class="graph-wrap">
+      <svg id="graph" role="img" aria-label="The selected entity and its links"></svg>
+      <div class="legend" id="legend"></div>
+    </div>
+    <div id="entity"></div>
+  </section>
+</main>
+<dialog id="viewer">
+  <div class="dlg-head"><strong id="v-title"></strong><span class="chip" id="v-loc"></span><button id="v-close">Close</button></div>
+  <div class="dlg-body" id="v-body"></div>
+</dialog>
+<script>
+const COLORS = { Customer: '#2f6f68', Contact: '#5b8f87', Order: '#8a6d3b', Product: '#b8924f', Supplier: '#3c6e8f', Shipment: '#6b7f3a',
+  Ticket: '#b4533a', Employee: '#1f4e5f', Team: '#4f6d5a', Policy: '#7a6a58', Meeting: '#5f7471', Decision: '#9a7b2f' };
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+let mode = 'hybrid';
+
+async function api(path, opts) {
+  const r = await fetch(path, opts);
+  if (!r.ok) throw new Error((await r.text()) || r.statusText);
+  return r.json();
+}
+
+function loc(c) {
+  const u = c.unit, p = c.pos, s = c.stop && c.stop !== c.pos ? `-${c.stop}` : '';
+  return `${c.file} · ${u} ${p}${s}`;
+}
+
+async function init() {
+  const s = await api('/api/stats');
+  const n = Object.values(s.nodes).reduce((a, b) => a + b, 0), e = Object.values(s.edges).reduce((a, b) => a + b, 0);
+  const f = Object.values(s.facts_by_method).reduce((a, b) => a + b, 0);
+  $('#stats').innerHTML = `<span class="chip">${n} entities</span><span class="chip">${e} links</span><span class="chip">${f} sourced facts</span>`;
+  $('#examples').innerHTML = s.examples.map((q) => `<button>${esc(q)}</button>`).join('');
+  $('#examples').querySelectorAll('button').forEach((b) => b.onclick = () => { $('#q').value = b.textContent; ask(); });
+  $('#legend').innerHTML = Object.entries(COLORS).map(([t, c]) => `<span><i style="background:${c}"></i>${t}</span>`).join('');
+  const params = new URLSearchParams(location.search);
+  if (params.get('mode')) setMode(params.get('mode'));
+  openEntity(params.get('entity') || 'Supplier:S01');
+  if (params.get('q')) { $('#q').value = params.get('q'); ask(); }
+}
+
+function setMode(m) {
+  mode = m;
+  document.querySelectorAll('.seg button').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.mode === m)));
+}
+document.querySelectorAll('.seg button').forEach((b) => b.onclick = () => setMode(b.dataset.mode));
+
+async function ask() {
+  const question = $('#q').value.trim();
+  if (!question) return;
+  $('#answer').innerHTML = '<div class="spinner">Working it out…</div>';
+  try {
+    const a = await api('/api/ask', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ question, mode }) });
+    const by = a.used === 'graph' ? 'Answered from the graph' : a.used === 'rag' ? 'Answered from text passages' : a.used === 'lookup' ? 'Entity lookup' : 'No answer';
+    const shown = a.citations.slice(0, 40);
+    $('#answer').innerHTML = `<div class="answer">
+      <span class="badge ${a.used === 'rag' ? 'rag' : ''}">${by}</span>
+      <div class="text" id="answer-text">${esc(a.text)}</div>
+      <div class="meta">${a.citations.length} source${a.citations.length === 1 ? '' : 's'} cited${a.notes.length ? ' · ' + esc(a.notes.join('; ')) : ''}</div>
+      ${a.cypher ? `<details><summary>The graph query that was run</summary><pre>${esc(a.cypher)}</pre></details>` : ''}
+      <ul class="cites">${shown.map((c, i) => `<li><button data-i="${i}"><span class="loc">${esc(loc(c))}</span>
+        <span class="badge method-${esc(c.method)}">${esc(c.method)}</span>${c.why ? `<span class="badge">${esc(c.why)}</span>` : ''}
+        <span class="snip">${esc(c.snippet)}</span></button></li>`).join('')}</ul>
+      ${a.citations.length > shown.length ? `<div class="meta">and ${a.citations.length - shown.length} more</div>` : ''}</div>`;
+    $('#answer').querySelectorAll('.cites button').forEach((b) => b.onclick = () => view(shown[+b.dataset.i]));
+  } catch (err) { $('#answer').innerHTML = `<div class="answer">${esc(err.message)}</div>`; }
+}
+$('#ask').onclick = ask;
+$('#q').addEventListener('keydown', (e) => { if (e.key === 'Enter' && (e.ctrlKey || e.metaKey)) ask(); });
+
+async function view(c) {
+  const qs = new URLSearchParams({ file: c.file, unit: c.unit, pos: c.pos });
+  if (c.stop) qs.set('stop', c.stop);
+  const s = await api('/api/source?' + qs);
+  $('#v-title').textContent = c.file;
+  $('#v-loc').textContent = `${c.unit} ${c.pos}${c.stop && c.stop !== c.pos ? '-' + c.stop : ''} · ${c.method}`;
+  let html = '';
+  if (s.kind === 'table') {
+    html = `<table><tr><th class="ln">row</th>${s.header.map((h) => `<th>${esc(h)}</th>`).join('')}</tr>` +
+      s.rows.map((r) => `<tr class="${r.hit ? 'hit' : ''}"><td class="ln">${r.n}</td>${r.cells.map((x) => `<td>${esc(x)}</td>`).join('')}</tr>`).join('') + '</table>';
+  } else if (s.kind === 'records') {
+    html = s.records.map((r) => `<div class="${r.hit ? 'hit' : ''}" style="border-radius:8px;padding:4px 8px;margin-bottom:6px"><div class="meta">record ${r.n}</div><pre>${esc(r.text)}</pre></div>`).join('');
+  } else {
+    html = '<table>' + s.lines.map((l) => `<tr class="${l.hit ? 'hit' : ''}"><td class="ln">${l.n}</td><td class="codeline">${esc(l.text)}</td></tr>`).join('') + '</table>';
+  }
+  $('#v-body').innerHTML = html;
+  $('#viewer').showModal();
+  const hit = $('#v-body .hit');
+  if (hit) hit.scrollIntoView({ block: 'center' });
+}
+$('#v-close').onclick = () => $('#viewer').close();
+
+let timer;
+$('#find').addEventListener('input', () => {
+  clearTimeout(timer);
+  const q = $('#find').value.trim();
+  if (q.length < 2) { $('#results').style.display = 'none'; return; }
+  timer = setTimeout(async () => {
+    const hits = await api('/api/search?q=' + encodeURIComponent(q));
+    $('#results').innerHTML = hits.length ? hits.map((h) => `<button data-id="${esc(h.id)}"><span class="type" style="background:${COLORS[h.type]}">${h.type}</span>${esc(h.name)}</button>`).join('')
+      : '<div class="empty" style="padding:12px">Nothing found</div>';
+    $('#results').style.display = 'block';
+    $('#results').querySelectorAll('button').forEach((b) => b.onclick = () => { $('#results').style.display = 'none'; $('#find').value = ''; openEntity(b.dataset.id); });
+  }, 180);
+});
+
+async function openEntity(id) {
+  let d;
+  try { d = await api('/api/entity?id=' + encodeURIComponent(id)); } catch { return; }
+  drawGraph(d);
+  const e = d.entity;
+  const props = d.props.filter((p) => p.prop !== 'unresolved');
+  const aka = d.aliases;
+  $('#entity').innerHTML = `<div class="entity-head"><span class="type" style="background:${COLORS[e.type]}">${e.type}</span><h3>${esc(e.name)}</h3>
+      ${d.source ? `<button class="src" id="ent-src">${esc(loc(d.source))}</button>` : ''}</div>
+    ${aka.length ? `<div class="aka">Also written as: ${aka.slice(0, 8).map(esc).join(' · ')}${aka.length > 8 ? ' …' : ''} (${d.mention_count} mentions merged into this record)</div>` : ''}
+    ${props.length ? `<table><tr><th>Property</th><th>Value</th><th>Source</th></tr>${props.map((p, i) => `<tr><td>${esc(p.prop)}</td><td>${esc(p.value)}</td>
+      <td>${p.source ? `<button class="src" data-p="${i}">${esc(loc(p.source))}</button>` : ''}</td></tr>`).join('')}</table>` : ''}`;
+  if (d.source) $('#ent-src').onclick = () => view(d.source);
+  $('#entity').querySelectorAll('[data-p]').forEach((b) => b.onclick = () => view(props[+b.dataset.p].source));
+}
+
+function drawGraph(d) {
+  const svg = $('#graph');
+  const W = svg.clientWidth || 700, H = 470, cx = W / 2, cy = H / 2;
+  // show up to 18 links, taken round-robin across relation types so a few hundred orders do not hide everything else
+  const groups = {};
+  d.links.forEach((l) => (groups[l.rel + l.dir] ||= []).push(l));
+  const lists = Object.values(groups), links = [];
+  for (let k = 0; links.length < 18 && lists.some((g) => g.length > k); k++) lists.forEach((g) => { if (g[k] && links.length < 18) links.push(g[k]); });
+  links.sort((a, b) => (a.rel + a.dir).localeCompare(b.rel + b.dir));
+  const n = links.length;
+  const R1 = Math.min(W * 0.42, H * 0.4);
+  let out = '';
+  const pts = links.map((l, i) => {
+    const a = -Math.PI / 2 + (2 * Math.PI * i) / Math.max(n, 1);
+    const r = R1;
+    return { x: cx + r * Math.cos(a), y: cy + r * Math.sin(a), l };
+  });
+  pts.forEach((p) => { out += `<line x1="${cx}" y1="${cy}" x2="${p.x}" y2="${p.y}" stroke="var(--line)" stroke-width="1.5"/>`; });
+  // one relation label per run of neighbours that share it, placed out along the first edge of the run
+  pts.forEach((p, i) => {
+    const key = p.l.rel + p.l.dir, prev = i ? pts[i - 1].l.rel + pts[i - 1].l.dir : null;
+    if (key === prev) return;
+    const t = 0.68, mx = cx + (p.x - cx) * t, my = cy + (p.y - cy) * t;
+    out += `<text class="rel" x="${mx}" y="${my - 4}" text-anchor="middle" paint-order="stroke" stroke="var(--bg)" stroke-width="4">${esc(p.l.dir === 'out' ? p.l.rel + ' →' : '← ' + p.l.rel)}</text>`;
+  });
+  pts.forEach((p) => {
+    const c = COLORS[p.l.node.type] || '#5f7471';
+    const name = p.l.node.name.length > 26 ? p.l.node.name.slice(0, 25) + '…' : p.l.node.name;
+    const anchor = p.x < cx - 10 ? 'end' : p.x > cx + 10 ? 'start' : 'middle';
+    const dx = anchor === 'end' ? -13 : anchor === 'start' ? 13 : 0, dy = anchor === 'middle' ? (p.y < cy ? -14 : 22) : 4;
+    out += `<g class="node" data-id="${esc(p.l.node.id)}"><title>${esc(p.l.node.type)}: ${esc(p.l.node.name)}</title><circle cx="${p.x}" cy="${p.y}" r="9" fill="${c}" stroke="var(--surface)" stroke-width="2"/>
+      <text x="${p.x + dx}" y="${p.y + dy}" text-anchor="${anchor}">${esc(name)}</text></g>`;
+  });
+  const e = d.entity;
+  out += `<g><circle cx="${cx}" cy="${cy}" r="22" fill="${COLORS[e.type]}" stroke="var(--surface)" stroke-width="3"/>
+    <text x="${cx}" y="${cy + 40}" text-anchor="middle" style="font-weight:700;font-size:13px">${esc(e.name.length > 40 ? e.name.slice(0, 39) + '…' : e.name)}</text></g>`;
+  if (d.degree > n) out += `<text class="rel" x="12" y="${H - 12}">showing ${n} of ${d.degree} links</text>`;
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  svg.innerHTML = out;
+  svg.querySelectorAll('.node').forEach((g) => g.onclick = () => openEntity(g.dataset.id));
+}
+init();
+</script>
+</body>
+</html>
