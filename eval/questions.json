@@ -1,0 +1,8113 @@
+[
+ {
+  "group": "single-hop",
+  "question": "Who is the account manager for Summit Trail Outfitters?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "James Walker"
+  ],
+  "gold_aliases": [
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    1
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    41
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    4
+   ]
+  ],
+  "needs": "",
+  "id": "q01"
+ },
+ {
+  "group": "single-hop",
+  "question": "Who is the account manager for Silver Fern Gear Hub?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Grace Cooper"
+  ],
+  "gold_aliases": [
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    20
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    9
+   ]
+  ],
+  "needs": "",
+  "id": "q02"
+ },
+ {
+  "group": "single-hop",
+  "question": "Who is the account manager for Pinecrest High School?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Chloe Bell"
+  ],
+  "gold_aliases": [
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    9
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    7
+   ]
+  ],
+  "needs": "",
+  "id": "q03"
+ },
+ {
+  "group": "single-hop",
+  "question": "Which supplier makes the Ember Fuel Canister?",
+  "answer_type": "entities",
+  "entity_type": "Supplier",
+  "gold": [
+   "Ember Cookware"
+  ],
+  "gold_aliases": [
+   [
+    "Ember Cookware"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Ridgeback Textiles"
+   ],
+   [
+    "Alpine Loom"
+   ],
+   [
+    "Tussock Wool Mills"
+   ],
+   [
+    "Northfold Packs"
+   ],
+   [
+    "Bluegum Down Supply"
+   ],
+   [
+    "Coastline Polymers"
+   ],
+   [
+    "Kiwi Canvas Works"
+   ]
+  ],
+  "support": [
+   [
+    "ops/products.csv",
+    "row",
+    29
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    8
+   ]
+  ],
+  "needs": "",
+  "id": "q04"
+ },
+ {
+  "group": "single-hop",
+  "question": "Which supplier makes the Trailhead 45L Pack?",
+  "answer_type": "entities",
+  "entity_type": "Supplier",
+  "gold": [
+   "Northfold Packs"
+  ],
+  "gold_aliases": [
+   [
+    "Northfold Packs"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Ridgeback Textiles"
+   ],
+   [
+    "Alpine Loom"
+   ],
+   [
+    "Tussock Wool Mills"
+   ],
+   [
+    "Bluegum Down Supply"
+   ],
+   [
+    "Coastline Polymers"
+   ],
+   [
+    "Kiwi Canvas Works"
+   ],
+   [
+    "Ember Cookware"
+   ]
+  ],
+  "support": [
+   [
+    "ops/products.csv",
+    "row",
+    11
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    4
+   ]
+  ],
+  "needs": "",
+  "id": "q05"
+ },
+ {
+  "group": "single-hop",
+  "question": "Which supplier makes the Canvas Gear Bag?",
+  "answer_type": "entities",
+  "entity_type": "Supplier",
+  "gold": [
+   "Kiwi Canvas Works"
+  ],
+  "gold_aliases": [
+   [
+    "Kiwi Canvas Works"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Ridgeback Textiles"
+   ],
+   [
+    "Alpine Loom"
+   ],
+   [
+    "Tussock Wool Mills"
+   ],
+   [
+    "Northfold Packs"
+   ],
+   [
+    "Bluegum Down Supply"
+   ],
+   [
+    "Coastline Polymers"
+   ],
+   [
+    "Ember Cookware"
+   ]
+  ],
+  "support": [
+   [
+    "ops/products.csv",
+    "row",
+    24
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    7
+   ]
+  ],
+  "needs": "",
+  "id": "q06"
+ },
+ {
+  "group": "single-hop",
+  "question": "Which team is Josh Ellis in?",
+  "answer_type": "entities",
+  "entity_type": "Team",
+  "gold": [
+   "Customer Support"
+  ],
+  "gold_aliases": [
+   [
+    "Customer Support"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Leadership"
+   ],
+   [
+    "Sales"
+   ],
+   [
+    "Operations"
+   ],
+   [
+    "Purchasing"
+   ],
+   [
+    "Finance"
+   ],
+   [
+    "Marketing"
+   ]
+  ],
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    18
+   ]
+  ],
+  "needs": "",
+  "id": "q07"
+ },
+ {
+  "group": "single-hop",
+  "question": "Which team is Adam Price in?",
+  "answer_type": "entities",
+  "entity_type": "Team",
+  "gold": [
+   "Operations"
+  ],
+  "gold_aliases": [
+   [
+    "Operations"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Leadership"
+   ],
+   [
+    "Sales"
+   ],
+   [
+    "Customer Support"
+   ],
+   [
+    "Purchasing"
+   ],
+   [
+    "Finance"
+   ],
+   [
+    "Marketing"
+   ]
+  ],
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    23
+   ]
+  ],
+  "needs": "",
+  "id": "q08"
+ },
+ {
+  "group": "single-hop",
+  "question": "Who does Kate Palmer report to?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Tom Baker"
+  ],
+  "gold_aliases": [
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    3
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    20
+   ]
+  ],
+  "needs": "",
+  "id": "q09"
+ },
+ {
+  "group": "single-hop",
+  "question": "Who does Jess Murray report to?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "James Hall"
+  ],
+  "gold_aliases": [
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    33
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    35
+   ]
+  ],
+  "needs": "",
+  "id": "q10"
+ },
+ {
+  "group": "single-hop",
+  "question": "Who is handling support ticket TCK-2133?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Ryan Young"
+  ],
+  "gold_aliases": [
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    13
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    133
+   ]
+  ],
+  "needs": "",
+  "id": "q11"
+ },
+ {
+  "group": "single-hop",
+  "question": "Who is handling support ticket TCK-2138?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Amy Morris"
+  ],
+  "gold_aliases": [
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    17
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    138
+   ]
+  ],
+  "needs": "",
+  "id": "q12"
+ },
+ {
+  "group": "single-hop",
+  "question": "Which customer placed order ORD-1180?",
+  "answer_type": "entities",
+  "entity_type": "Customer",
+  "gold": [
+   "Summit Trail Outfitters"
+  ],
+  "gold_aliases": [
+   [
+    "Summit Trail Outfitters"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Kea Kids Club"
+   ],
+   [
+    "Harbourside Adventure Store"
+   ],
+   [
+    "Riverstone Outdoors"
+   ],
+   [
+    "Riverstone Outdoor Club"
+   ],
+   [
+    "Glacier Bay Supplies"
+   ],
+   [
+    "Tasman Tramping Club"
+   ],
+   [
+    "Ironsand Surf and Trail"
+   ],
+   [
+    "Pinecrest High School"
+   ],
+   [
+    "Totara Valley Scouts"
+   ],
+   [
+    "Coastal Edge Sports"
+   ],
+   [
+    "Mountain Mile Gear"
+   ],
+   [
+    "Waypoint Online"
+   ],
+   [
+    "Kowhai Camping Co"
+   ],
+   [
+    "Lakeside Leisure Shop"
+   ],
+   [
+    "Bluff Road Outdoors"
+   ],
+   [
+    "Northern Ridge Alpine Club"
+   ],
+   [
+    "Driftwood Kayak Hire"
+   ],
+   [
+    "Red Tussock Retail"
+   ],
+   [
+    "Silver Fern Gear Hub"
+   ],
+   [
+    "Fiordland Expeditions Store"
+   ],
+   [
+    "Cape Light Camping"
+   ],
+   [
+    "Granite Peak Outfitters"
+   ],
+   [
+    "Westland Wanderers"
+   ],
+   [
+    "Harbour City Climbing"
+   ],
+   [
+    "Rimu Grove College"
+   ],
+   [
+    "Basecamp Direct"
+   ],
+   [
+    "Matai Street Sports"
+   ],
+   [
+    "Southern Lakes Trading"
+   ],
+   [
+    "Pohutukawa Paddlers"
+   ],
+   [
+    "Clearwater Outdoor Centre"
+   ],
+   [
+    "High Country Hikers"
+   ],
+   [
+    "Sandspit Surf Shop"
+   ],
+   [
+    "Moa Point Adventure"
+   ],
+   [
+    "Twin Rivers School"
+   ],
+   [
+    "Trailhead Collective"
+   ],
+   [
+    "Kaikoura Coast Outdoors"
+   ],
+   [
+    "Eastgate Camping World"
+   ],
+   [
+    "Hilltop Harriers"
+   ],
+   [
+    "Cloudline Online"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    1
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    41
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    180
+   ]
+  ],
+  "needs": "",
+  "id": "q13"
+ },
+ {
+  "group": "single-hop",
+  "question": "Which customer placed order ORD-1094?",
+  "answer_type": "entities",
+  "entity_type": "Customer",
+  "gold": [
+   "Westland Wanderers"
+  ],
+  "gold_aliases": [
+   [
+    "Westland Wanderers"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Summit Trail Outfitters"
+   ],
+   [
+    "Kea Kids Club"
+   ],
+   [
+    "Harbourside Adventure Store"
+   ],
+   [
+    "Riverstone Outdoors"
+   ],
+   [
+    "Riverstone Outdoor Club"
+   ],
+   [
+    "Glacier Bay Supplies"
+   ],
+   [
+    "Tasman Tramping Club"
+   ],
+   [
+    "Ironsand Surf and Trail"
+   ],
+   [
+    "Pinecrest High School"
+   ],
+   [
+    "Totara Valley Scouts"
+   ],
+   [
+    "Coastal Edge Sports"
+   ],
+   [
+    "Mountain Mile Gear"
+   ],
+   [
+    "Waypoint Online"
+   ],
+   [
+    "Kowhai Camping Co"
+   ],
+   [
+    "Lakeside Leisure Shop"
+   ],
+   [
+    "Bluff Road Outdoors"
+   ],
+   [
+    "Northern Ridge Alpine Club"
+   ],
+   [
+    "Driftwood Kayak Hire"
+   ],
+   [
+    "Red Tussock Retail"
+   ],
+   [
+    "Silver Fern Gear Hub"
+   ],
+   [
+    "Fiordland Expeditions Store"
+   ],
+   [
+    "Cape Light Camping"
+   ],
+   [
+    "Granite Peak Outfitters"
+   ],
+   [
+    "Harbour City Climbing"
+   ],
+   [
+    "Rimu Grove College"
+   ],
+   [
+    "Basecamp Direct"
+   ],
+   [
+    "Matai Street Sports"
+   ],
+   [
+    "Southern Lakes Trading"
+   ],
+   [
+    "Pohutukawa Paddlers"
+   ],
+   [
+    "Clearwater Outdoor Centre"
+   ],
+   [
+    "High Country Hikers"
+   ],
+   [
+    "Sandspit Surf Shop"
+   ],
+   [
+    "Moa Point Adventure"
+   ],
+   [
+    "Twin Rivers School"
+   ],
+   [
+    "Trailhead Collective"
+   ],
+   [
+    "Kaikoura Coast Outdoors"
+   ],
+   [
+    "Eastgate Camping World"
+   ],
+   [
+    "Hilltop Harriers"
+   ],
+   [
+    "Cloudline Online"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    24
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    94
+   ]
+  ],
+  "needs": "",
+  "id": "q14"
+ },
+ {
+  "group": "single-hop",
+  "question": "Who attended the Supplier Quality Review on 24 August?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Olivia Grant",
+   "Anna Holmes",
+   "Holly Knight",
+   "Tom Baker"
+  ],
+  "gold_aliases": [
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "meetings/2026-08-24-supplier-quality-review.md",
+    "line",
+    1
+   ],
+   [
+    "meetings/2026-08-24-supplier-quality-review.md",
+    "line",
+    3
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    3
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    26
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    29
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    32
+   ]
+  ],
+  "needs": "",
+  "id": "q15"
+ },
+ {
+  "group": "single-hop",
+  "question": "How many days do customers have to return unused items?",
+  "answer_type": "number",
+  "gold": 30.0,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "policies/returns-policy.md",
+    "line",
+    1
+   ],
+   [
+    "policies/returns-policy.md",
+    "line",
+    11
+   ]
+  ],
+  "needs": "text",
+  "id": "q16"
+ },
+ {
+  "group": "single-hop",
+  "question": "How many months does the product warranty last?",
+  "answer_type": "number",
+  "gold": 24.0,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "policies/warranty-policy.pdf",
+    "page",
+    1
+   ]
+  ],
+  "needs": "text",
+  "id": "q17"
+ },
+ {
+  "group": "single-hop",
+  "question": "Within how many business hours must a new support ticket get a first response?",
+  "answer_type": "number",
+  "gold": 8.0,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "policies/support-response-standard.md",
+    "line",
+    1
+   ],
+   [
+    "policies/support-response-standard.md",
+    "line",
+    7
+   ]
+  ],
+  "needs": "text",
+  "id": "q18"
+ },
+ {
+  "group": "single-hop",
+  "question": "Which team owns the Supplier Quality Policy?",
+  "answer_type": "entities",
+  "entity_type": "Team",
+  "gold": [
+   "Purchasing"
+  ],
+  "gold_aliases": [
+   [
+    "Purchasing"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Leadership"
+   ],
+   [
+    "Sales"
+   ],
+   [
+    "Customer Support"
+   ],
+   [
+    "Operations"
+   ],
+   [
+    "Finance"
+   ],
+   [
+    "Marketing"
+   ]
+  ],
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    29
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    30
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    31
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    32
+   ],
+   [
+    "policies/supplier-quality-policy.pdf",
+    "page",
+    1
+   ]
+  ],
+  "needs": "",
+  "id": "q19"
+ },
+ {
+  "group": "single-hop",
+  "question": "Which product was on inbound shipment SHP-352?",
+  "answer_type": "entities",
+  "entity_type": "Product",
+  "gold": [
+   "Merino Hiking Socks"
+  ],
+  "gold_aliases": [
+   [
+    "Merino Hiking Socks",
+    "ACM-APP-004"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Ridgeline 2P Tent",
+    "ACM-TEN-001"
+   ],
+   [
+    "Ridgeline 3P Tent",
+    "ACM-TEN-002"
+   ],
+   [
+    "Storm Shelter Fly",
+    "ACM-TEN-003"
+   ],
+   [
+    "Tarn Rain Shell",
+    "ACM-APP-001"
+   ],
+   [
+    "Basin Hiking Pants",
+    "ACM-APP-002"
+   ],
+   [
+    "Kepler Tent Poles",
+    "ACM-TEN-004"
+   ],
+   [
+    "Alpine Base Layer",
+    "ACM-APP-003"
+   ],
+   [
+    "Merino Beanie",
+    "ACM-APP-005"
+   ],
+   [
+    "Merino Midlayer",
+    "ACM-APP-006"
+   ],
+   [
+    "Trailhead 45L Pack",
+    "ACM-PAK-001"
+   ],
+   [
+    "Trailhead 65L Pack",
+    "ACM-PAK-002"
+   ],
+   [
+    "Daytripper 22L Pack",
+    "ACM-PAK-003"
+   ],
+   [
+    "Summit Hydration Pack",
+    "ACM-PAK-004"
+   ],
+   [
+    "Kids Explorer Pack",
+    "ACM-PAK-005"
+   ],
+   [
+    "Aurora Down Bag -5C",
+    "ACM-SLP-001"
+   ],
+   [
+    "Aurora Down Bag 0C",
+    "ACM-SLP-002"
+   ],
+   [
+    "Down Hut Booties",
+    "ACM-FTW-001"
+   ],
+   [
+    "Cloudrest Sleeping Mat",
+    "ACM-SLP-003"
+   ],
+   [
+    "Inflatable Camp Pillow",
+    "ACM-SLP-004"
+   ],
+   [
+    "Trail Runner Gaiters",
+    "ACM-FTW-002"
+   ],
+   [
+    "Stream Crossing Sandals",
+    "ACM-FTW-003"
+   ],
+   [
+    "Canvas Bell Tent",
+    "ACM-TEN-005"
+   ],
+   [
+    "Canvas Gear Bag",
+    "ACM-PAK-006"
+   ],
+   [
+    "Camp Kitchen Tarp",
+    "ACM-TEN-006"
+   ],
+   [
+    "Ember Camp Stove",
+    "ACM-COK-001"
+   ],
+   [
+    "Ember Titanium Pot",
+    "ACM-COK-002"
+   ],
+   [
+    "Ember Mess Kit",
+    "ACM-COK-003"
+   ],
+   [
+    "Ember Fuel Canister",
+    "ACM-COK-004"
+   ],
+   [
+    "Ember Folding Spork",
+    "ACM-COK-005"
+   ]
+  ],
+  "support": [
+   [
+    "ops/products.csv",
+    "row",
+    8
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    50
+   ]
+  ],
+  "needs": "",
+  "id": "q20"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which customers have an open complaint about a product from the supplier whose shipment was delayed last week?",
+  "answer_type": "entities",
+  "entity_type": "Customer",
+  "gold": [
+   "Mountain Mile Gear"
+  ],
+  "gold_aliases": [
+   [
+    "Mountain Mile Gear"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Summit Trail Outfitters"
+   ],
+   [
+    "Kea Kids Club"
+   ],
+   [
+    "Harbourside Adventure Store"
+   ],
+   [
+    "Riverstone Outdoors"
+   ],
+   [
+    "Riverstone Outdoor Club"
+   ],
+   [
+    "Glacier Bay Supplies"
+   ],
+   [
+    "Tasman Tramping Club"
+   ],
+   [
+    "Ironsand Surf and Trail"
+   ],
+   [
+    "Pinecrest High School"
+   ],
+   [
+    "Totara Valley Scouts"
+   ],
+   [
+    "Coastal Edge Sports"
+   ],
+   [
+    "Waypoint Online"
+   ],
+   [
+    "Kowhai Camping Co"
+   ],
+   [
+    "Lakeside Leisure Shop"
+   ],
+   [
+    "Bluff Road Outdoors"
+   ],
+   [
+    "Northern Ridge Alpine Club"
+   ],
+   [
+    "Driftwood Kayak Hire"
+   ],
+   [
+    "Red Tussock Retail"
+   ],
+   [
+    "Silver Fern Gear Hub"
+   ],
+   [
+    "Fiordland Expeditions Store"
+   ],
+   [
+    "Cape Light Camping"
+   ],
+   [
+    "Granite Peak Outfitters"
+   ],
+   [
+    "Westland Wanderers"
+   ],
+   [
+    "Harbour City Climbing"
+   ],
+   [
+    "Rimu Grove College"
+   ],
+   [
+    "Basecamp Direct"
+   ],
+   [
+    "Matai Street Sports"
+   ],
+   [
+    "Southern Lakes Trading"
+   ],
+   [
+    "Pohutukawa Paddlers"
+   ],
+   [
+    "Clearwater Outdoor Centre"
+   ],
+   [
+    "High Country Hikers"
+   ],
+   [
+    "Sandspit Surf Shop"
+   ],
+   [
+    "Moa Point Adventure"
+   ],
+   [
+    "Twin Rivers School"
+   ],
+   [
+    "Trailhead Collective"
+   ],
+   [
+    "Kaikoura Coast Outdoors"
+   ],
+   [
+    "Eastgate Camping World"
+   ],
+   [
+    "Hilltop Harriers"
+   ],
+   [
+    "Cloudline Online"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    12
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    4
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    57
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    58
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    164
+   ]
+  ],
+  "needs": "",
+  "id": "q21"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which customers with an open complaint ordered products since 1 September from the supplier whose shipment was delayed last week?",
+  "answer_type": "entities",
+  "entity_type": "Customer",
+  "gold": [
+   "Summit Trail Outfitters",
+   "Granite Peak Outfitters",
+   "Mountain Mile Gear",
+   "Fiordland Expeditions Store",
+   "Harbour City Climbing"
+  ],
+  "gold_aliases": [
+   [
+    "Summit Trail Outfitters"
+   ],
+   [
+    "Granite Peak Outfitters"
+   ],
+   [
+    "Mountain Mile Gear"
+   ],
+   [
+    "Fiordland Expeditions Store"
+   ],
+   [
+    "Harbour City Climbing"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Kea Kids Club"
+   ],
+   [
+    "Harbourside Adventure Store"
+   ],
+   [
+    "Riverstone Outdoors"
+   ],
+   [
+    "Riverstone Outdoor Club"
+   ],
+   [
+    "Glacier Bay Supplies"
+   ],
+   [
+    "Tasman Tramping Club"
+   ],
+   [
+    "Ironsand Surf and Trail"
+   ],
+   [
+    "Pinecrest High School"
+   ],
+   [
+    "Totara Valley Scouts"
+   ],
+   [
+    "Coastal Edge Sports"
+   ],
+   [
+    "Waypoint Online"
+   ],
+   [
+    "Kowhai Camping Co"
+   ],
+   [
+    "Lakeside Leisure Shop"
+   ],
+   [
+    "Bluff Road Outdoors"
+   ],
+   [
+    "Northern Ridge Alpine Club"
+   ],
+   [
+    "Driftwood Kayak Hire"
+   ],
+   [
+    "Red Tussock Retail"
+   ],
+   [
+    "Silver Fern Gear Hub"
+   ],
+   [
+    "Cape Light Camping"
+   ],
+   [
+    "Westland Wanderers"
+   ],
+   [
+    "Rimu Grove College"
+   ],
+   [
+    "Basecamp Direct"
+   ],
+   [
+    "Matai Street Sports"
+   ],
+   [
+    "Southern Lakes Trading"
+   ],
+   [
+    "Pohutukawa Paddlers"
+   ],
+   [
+    "Clearwater Outdoor Centre"
+   ],
+   [
+    "High Country Hikers"
+   ],
+   [
+    "Sandspit Surf Shop"
+   ],
+   [
+    "Moa Point Adventure"
+   ],
+   [
+    "Twin Rivers School"
+   ],
+   [
+    "Trailhead Collective"
+   ],
+   [
+    "Kaikoura Coast Outdoors"
+   ],
+   [
+    "Eastgate Camping World"
+   ],
+   [
+    "Hilltop Harriers"
+   ],
+   [
+    "Cloudline Online"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    1
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    12
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    21
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    23
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    25
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    41
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    466
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    467
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    472
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    560
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    571
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    582
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    584
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    609
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    267
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    268
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    271
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    315
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    322
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    330
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    331
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    345
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    1
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    2
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    3
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    4
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    57
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    58
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    72
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    121
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    151
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    155
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    164
+   ]
+  ],
+  "needs": "",
+  "id": "q22"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which customers ordered products supplied by Kiwi Canvas Works in August?",
+  "answer_type": "entities",
+  "entity_type": "Customer",
+  "gold": [
+   "Pohutukawa Paddlers",
+   "Riverstone Outdoors",
+   "Rimu Grove College",
+   "Red Tussock Retail",
+   "Pinecrest High School"
+  ],
+  "gold_aliases": [
+   [
+    "Pohutukawa Paddlers"
+   ],
+   [
+    "Riverstone Outdoors"
+   ],
+   [
+    "Rimu Grove College"
+   ],
+   [
+    "Red Tussock Retail"
+   ],
+   [
+    "Pinecrest High School"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Summit Trail Outfitters"
+   ],
+   [
+    "Kea Kids Club"
+   ],
+   [
+    "Harbourside Adventure Store"
+   ],
+   [
+    "Riverstone Outdoor Club"
+   ],
+   [
+    "Glacier Bay Supplies"
+   ],
+   [
+    "Tasman Tramping Club"
+   ],
+   [
+    "Ironsand Surf and Trail"
+   ],
+   [
+    "Totara Valley Scouts"
+   ],
+   [
+    "Coastal Edge Sports"
+   ],
+   [
+    "Mountain Mile Gear"
+   ],
+   [
+    "Waypoint Online"
+   ],
+   [
+    "Kowhai Camping Co"
+   ],
+   [
+    "Lakeside Leisure Shop"
+   ],
+   [
+    "Bluff Road Outdoors"
+   ],
+   [
+    "Northern Ridge Alpine Club"
+   ],
+   [
+    "Driftwood Kayak Hire"
+   ],
+   [
+    "Silver Fern Gear Hub"
+   ],
+   [
+    "Fiordland Expeditions Store"
+   ],
+   [
+    "Cape Light Camping"
+   ],
+   [
+    "Granite Peak Outfitters"
+   ],
+   [
+    "Westland Wanderers"
+   ],
+   [
+    "Harbour City Climbing"
+   ],
+   [
+    "Basecamp Direct"
+   ],
+   [
+    "Matai Street Sports"
+   ],
+   [
+    "Southern Lakes Trading"
+   ],
+   [
+    "Clearwater Outdoor Centre"
+   ],
+   [
+    "High Country Hikers"
+   ],
+   [
+    "Sandspit Surf Shop"
+   ],
+   [
+    "Moa Point Adventure"
+   ],
+   [
+    "Twin Rivers School"
+   ],
+   [
+    "Trailhead Collective"
+   ],
+   [
+    "Kaikoura Coast Outdoors"
+   ],
+   [
+    "Eastgate Camping World"
+   ],
+   [
+    "Hilltop Harriers"
+   ],
+   [
+    "Cloudline Online"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    4
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    9
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    19
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    26
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    30
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    377
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    395
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    399
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    403
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    425
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    426
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    438
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    217
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    226
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    228
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    229
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    241
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    248
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    23
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    24
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    25
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    7
+   ]
+  ],
+  "needs": "",
+  "id": "q23"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which customers ordered products supplied by Bluegum Down Supply in August?",
+  "answer_type": "entities",
+  "entity_type": "Customer",
+  "gold": [
+   "Kowhai Camping Co",
+   "Trailhead Collective",
+   "Silver Fern Gear Hub",
+   "Lakeside Leisure Shop",
+   "Driftwood Kayak Hire"
+  ],
+  "gold_aliases": [
+   [
+    "Kowhai Camping Co"
+   ],
+   [
+    "Trailhead Collective"
+   ],
+   [
+    "Silver Fern Gear Hub"
+   ],
+   [
+    "Lakeside Leisure Shop"
+   ],
+   [
+    "Driftwood Kayak Hire"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Summit Trail Outfitters"
+   ],
+   [
+    "Kea Kids Club"
+   ],
+   [
+    "Harbourside Adventure Store"
+   ],
+   [
+    "Riverstone Outdoors"
+   ],
+   [
+    "Riverstone Outdoor Club"
+   ],
+   [
+    "Glacier Bay Supplies"
+   ],
+   [
+    "Tasman Tramping Club"
+   ],
+   [
+    "Ironsand Surf and Trail"
+   ],
+   [
+    "Pinecrest High School"
+   ],
+   [
+    "Totara Valley Scouts"
+   ],
+   [
+    "Coastal Edge Sports"
+   ],
+   [
+    "Mountain Mile Gear"
+   ],
+   [
+    "Waypoint Online"
+   ],
+   [
+    "Bluff Road Outdoors"
+   ],
+   [
+    "Northern Ridge Alpine Club"
+   ],
+   [
+    "Red Tussock Retail"
+   ],
+   [
+    "Fiordland Expeditions Store"
+   ],
+   [
+    "Cape Light Camping"
+   ],
+   [
+    "Granite Peak Outfitters"
+   ],
+   [
+    "Westland Wanderers"
+   ],
+   [
+    "Harbour City Climbing"
+   ],
+   [
+    "Rimu Grove College"
+   ],
+   [
+    "Basecamp Direct"
+   ],
+   [
+    "Matai Street Sports"
+   ],
+   [
+    "Southern Lakes Trading"
+   ],
+   [
+    "Pohutukawa Paddlers"
+   ],
+   [
+    "Clearwater Outdoor Centre"
+   ],
+   [
+    "High Country Hikers"
+   ],
+   [
+    "Sandspit Surf Shop"
+   ],
+   [
+    "Moa Point Adventure"
+   ],
+   [
+    "Twin Rivers School"
+   ],
+   [
+    "Kaikoura Coast Outdoors"
+   ],
+   [
+    "Eastgate Camping World"
+   ],
+   [
+    "Hilltop Harriers"
+   ],
+   [
+    "Cloudline Online"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    14
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    15
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    18
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    20
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    36
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    43
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    383
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    405
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    406
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    417
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    430
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    443
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    220
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    230
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    236
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    243
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    252
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    16
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    17
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    18
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    5
+   ]
+  ],
+  "needs": "",
+  "id": "q24"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Who is the account manager of the customer that raised ticket TCK-2127?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "James Walker"
+  ],
+  "gold_aliases": [
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    36
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    4
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    127
+   ]
+  ],
+  "needs": "",
+  "id": "q25"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Who is the account manager of the customer that raised ticket TCK-2106?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Chloe Bell"
+  ],
+  "gold_aliases": [
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    24
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    7
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    106
+   ]
+  ],
+  "needs": "",
+  "id": "q26"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Who is the account manager of the customer that raised ticket TCK-2120?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Grace Cooper"
+  ],
+  "gold_aliases": [
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    30
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    9
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    120
+   ]
+  ],
+  "needs": "",
+  "id": "q27"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which supplier makes the product that ticket TCK-2023 is about?",
+  "answer_type": "entities",
+  "entity_type": "Supplier",
+  "gold": [
+   "Ridgeback Textiles"
+  ],
+  "gold_aliases": [
+   [
+    "Ridgeback Textiles"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Alpine Loom"
+   ],
+   [
+    "Tussock Wool Mills"
+   ],
+   [
+    "Northfold Packs"
+   ],
+   [
+    "Bluegum Down Supply"
+   ],
+   [
+    "Coastline Polymers"
+   ],
+   [
+    "Kiwi Canvas Works"
+   ],
+   [
+    "Ember Cookware"
+   ]
+  ],
+  "support": [
+   [
+    "ops/products.csv",
+    "row",
+    2
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    1
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    23
+   ]
+  ],
+  "needs": "",
+  "id": "q28"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which supplier makes the product that ticket TCK-2098 is about?",
+  "answer_type": "entities",
+  "entity_type": "Supplier",
+  "gold": [
+   "Coastline Polymers"
+  ],
+  "gold_aliases": [
+   [
+    "Coastline Polymers"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Ridgeback Textiles"
+   ],
+   [
+    "Alpine Loom"
+   ],
+   [
+    "Tussock Wool Mills"
+   ],
+   [
+    "Northfold Packs"
+   ],
+   [
+    "Bluegum Down Supply"
+   ],
+   [
+    "Kiwi Canvas Works"
+   ],
+   [
+    "Ember Cookware"
+   ]
+  ],
+  "support": [
+   [
+    "ops/products.csv",
+    "row",
+    22
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    6
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    98
+   ]
+  ],
+  "needs": "",
+  "id": "q29"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which supplier makes the product that ticket TCK-2061 is about?",
+  "answer_type": "entities",
+  "entity_type": "Supplier",
+  "gold": [
+   "Kiwi Canvas Works"
+  ],
+  "gold_aliases": [
+   [
+    "Kiwi Canvas Works"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Ridgeback Textiles"
+   ],
+   [
+    "Alpine Loom"
+   ],
+   [
+    "Tussock Wool Mills"
+   ],
+   [
+    "Northfold Packs"
+   ],
+   [
+    "Bluegum Down Supply"
+   ],
+   [
+    "Coastline Polymers"
+   ],
+   [
+    "Ember Cookware"
+   ]
+  ],
+  "support": [
+   [
+    "ops/products.csv",
+    "row",
+    25
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    7
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    61
+   ]
+  ],
+  "needs": "",
+  "id": "q30"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which team is the person handling ticket TCK-2027 in?",
+  "answer_type": "entities",
+  "entity_type": "Team",
+  "gold": [
+   "Customer Support"
+  ],
+  "gold_aliases": [
+   [
+    "Customer Support"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Leadership"
+   ],
+   [
+    "Sales"
+   ],
+   [
+    "Operations"
+   ],
+   [
+    "Purchasing"
+   ],
+   [
+    "Finance"
+   ],
+   [
+    "Marketing"
+   ]
+  ],
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    13
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    27
+   ]
+  ],
+  "needs": "",
+  "id": "q31"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which team is the person handling ticket TCK-2005 in?",
+  "answer_type": "entities",
+  "entity_type": "Team",
+  "gold": [
+   "Customer Support"
+  ],
+  "gold_aliases": [
+   [
+    "Customer Support"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Leadership"
+   ],
+   [
+    "Sales"
+   ],
+   [
+    "Operations"
+   ],
+   [
+    "Purchasing"
+   ],
+   [
+    "Finance"
+   ],
+   [
+    "Marketing"
+   ]
+  ],
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    16
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    5
+   ]
+  ],
+  "needs": "",
+  "id": "q32"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which supplier was put on probation?",
+  "answer_type": "entities",
+  "entity_type": "Supplier",
+  "gold": [
+   "Ridgeback Textiles"
+  ],
+  "gold_aliases": [
+   [
+    "Ridgeback Textiles"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Alpine Loom"
+   ],
+   [
+    "Tussock Wool Mills"
+   ],
+   [
+    "Northfold Packs"
+   ],
+   [
+    "Bluegum Down Supply"
+   ],
+   [
+    "Coastline Polymers"
+   ],
+   [
+    "Kiwi Canvas Works"
+   ],
+   [
+    "Ember Cookware"
+   ]
+  ],
+  "support": [
+   [
+    "meetings/2026-10-12-supplier-quality-review.md",
+    "line",
+    1
+   ],
+   [
+    "meetings/2026-10-12-supplier-quality-review.md",
+    "line",
+    7
+   ],
+   [
+    "meetings/2026-10-12-supplier-quality-review.md",
+    "line",
+    13
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    1
+   ]
+  ],
+  "needs": "text",
+  "id": "q33"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which policy did the Leadership Meeting on 28 September make a decision about?",
+  "answer_type": "entities",
+  "entity_type": "Policy",
+  "gold": [
+   "Shipping Policy"
+  ],
+  "gold_aliases": [
+   [
+    "Shipping Policy"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Returns Policy"
+   ],
+   [
+    "Warranty Policy"
+   ],
+   [
+    "Discount Approval Policy"
+   ],
+   [
+    "Support Response Standard"
+   ],
+   [
+    "Supplier Quality Policy"
+   ],
+   [
+    "Data Protection Policy"
+   ],
+   [
+    "Account Onboarding Process"
+   ]
+  ],
+  "support": [
+   [
+    "meetings/2026-09-28-leadership-meeting.md",
+    "line",
+    1
+   ],
+   [
+    "meetings/2026-09-28-leadership-meeting.md",
+    "line",
+    8
+   ],
+   [
+    "meetings/2026-09-28-leadership-meeting.md",
+    "line",
+    12
+   ],
+   [
+    "policies/shipping-policy.md",
+    "line",
+    1
+   ]
+  ],
+  "needs": "text",
+  "id": "q34"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Who has to carry out the decision about the Trailhead 45L Pack?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Zoe Dixon"
+  ],
+  "gold_aliases": [
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "meetings/2026-09-21-range-planning-meeting.md",
+    "line",
+    1
+   ],
+   [
+    "meetings/2026-09-21-range-planning-meeting.md",
+    "line",
+    12
+   ],
+   [
+    "meetings/2026-09-21-range-planning-meeting.md",
+    "line",
+    13
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    11
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    30
+   ]
+  ],
+  "needs": "",
+  "id": "q35"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Who has to carry out the decision about the Cloudrest Sleeping Mat?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Sophie Wright"
+  ],
+  "gold_aliases": [
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "meetings/2026-10-06-support-team-retro.md",
+    "line",
+    1
+   ],
+   [
+    "meetings/2026-10-06-support-team-retro.md",
+    "line",
+    12
+   ],
+   [
+    "meetings/2026-10-06-support-team-retro.md",
+    "line",
+    13
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    19
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    15
+   ]
+  ],
+  "needs": "",
+  "id": "q36"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which customers have open tickets about orders that included the Aurora Down Bag 0C?",
+  "answer_type": "entities",
+  "entity_type": "Customer",
+  "gold": [
+   "Harbourside Adventure Store",
+   "Granite Peak Outfitters",
+   "Basecamp Direct"
+  ],
+  "gold_aliases": [
+   [
+    "Harbourside Adventure Store"
+   ],
+   [
+    "Granite Peak Outfitters"
+   ],
+   [
+    "Basecamp Direct"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Summit Trail Outfitters"
+   ],
+   [
+    "Kea Kids Club"
+   ],
+   [
+    "Riverstone Outdoors"
+   ],
+   [
+    "Riverstone Outdoor Club"
+   ],
+   [
+    "Glacier Bay Supplies"
+   ],
+   [
+    "Tasman Tramping Club"
+   ],
+   [
+    "Ironsand Surf and Trail"
+   ],
+   [
+    "Pinecrest High School"
+   ],
+   [
+    "Totara Valley Scouts"
+   ],
+   [
+    "Coastal Edge Sports"
+   ],
+   [
+    "Mountain Mile Gear"
+   ],
+   [
+    "Waypoint Online"
+   ],
+   [
+    "Kowhai Camping Co"
+   ],
+   [
+    "Lakeside Leisure Shop"
+   ],
+   [
+    "Bluff Road Outdoors"
+   ],
+   [
+    "Northern Ridge Alpine Club"
+   ],
+   [
+    "Driftwood Kayak Hire"
+   ],
+   [
+    "Red Tussock Retail"
+   ],
+   [
+    "Silver Fern Gear Hub"
+   ],
+   [
+    "Fiordland Expeditions Store"
+   ],
+   [
+    "Cape Light Camping"
+   ],
+   [
+    "Westland Wanderers"
+   ],
+   [
+    "Harbour City Climbing"
+   ],
+   [
+    "Rimu Grove College"
+   ],
+   [
+    "Matai Street Sports"
+   ],
+   [
+    "Southern Lakes Trading"
+   ],
+   [
+    "Pohutukawa Paddlers"
+   ],
+   [
+    "Clearwater Outdoor Centre"
+   ],
+   [
+    "High Country Hikers"
+   ],
+   [
+    "Sandspit Surf Shop"
+   ],
+   [
+    "Moa Point Adventure"
+   ],
+   [
+    "Twin Rivers School"
+   ],
+   [
+    "Trailhead Collective"
+   ],
+   [
+    "Kaikoura Coast Outdoors"
+   ],
+   [
+    "Eastgate Camping World"
+   ],
+   [
+    "Hilltop Harriers"
+   ],
+   [
+    "Cloudline Online"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    3
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    23
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    27
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    43
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    228
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    603
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    25
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    126
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    342
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    17
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    20
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    72
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    169
+   ]
+  ],
+  "needs": "",
+  "id": "q37"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which customers have open tickets about orders that included the Tarn Rain Shell?",
+  "answer_type": "entities",
+  "entity_type": "Customer",
+  "gold": [
+   "Summit Trail Outfitters",
+   "Mountain Mile Gear"
+  ],
+  "gold_aliases": [
+   [
+    "Summit Trail Outfitters"
+   ],
+   [
+    "Mountain Mile Gear"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Kea Kids Club"
+   ],
+   [
+    "Harbourside Adventure Store"
+   ],
+   [
+    "Riverstone Outdoors"
+   ],
+   [
+    "Riverstone Outdoor Club"
+   ],
+   [
+    "Glacier Bay Supplies"
+   ],
+   [
+    "Tasman Tramping Club"
+   ],
+   [
+    "Ironsand Surf and Trail"
+   ],
+   [
+    "Pinecrest High School"
+   ],
+   [
+    "Totara Valley Scouts"
+   ],
+   [
+    "Coastal Edge Sports"
+   ],
+   [
+    "Waypoint Online"
+   ],
+   [
+    "Kowhai Camping Co"
+   ],
+   [
+    "Lakeside Leisure Shop"
+   ],
+   [
+    "Bluff Road Outdoors"
+   ],
+   [
+    "Northern Ridge Alpine Club"
+   ],
+   [
+    "Driftwood Kayak Hire"
+   ],
+   [
+    "Red Tussock Retail"
+   ],
+   [
+    "Silver Fern Gear Hub"
+   ],
+   [
+    "Fiordland Expeditions Store"
+   ],
+   [
+    "Cape Light Camping"
+   ],
+   [
+    "Granite Peak Outfitters"
+   ],
+   [
+    "Westland Wanderers"
+   ],
+   [
+    "Harbour City Climbing"
+   ],
+   [
+    "Rimu Grove College"
+   ],
+   [
+    "Basecamp Direct"
+   ],
+   [
+    "Matai Street Sports"
+   ],
+   [
+    "Southern Lakes Trading"
+   ],
+   [
+    "Pohutukawa Paddlers"
+   ],
+   [
+    "Clearwater Outdoor Centre"
+   ],
+   [
+    "High Country Hikers"
+   ],
+   [
+    "Sandspit Surf Shop"
+   ],
+   [
+    "Moa Point Adventure"
+   ],
+   [
+    "Twin Rivers School"
+   ],
+   [
+    "Trailhead Collective"
+   ],
+   [
+    "Kaikoura Coast Outdoors"
+   ],
+   [
+    "Eastgate Camping World"
+   ],
+   [
+    "Hilltop Harriers"
+   ],
+   [
+    "Cloudline Online"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    1
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    12
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    41
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    472
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    571
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    271
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    322
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    4
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    151
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    164
+   ]
+  ],
+  "needs": "",
+  "id": "q38"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which members of the Purchasing team attended the Supplier Quality Review on 12 October?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Olivia Grant",
+   "Anna Holmes"
+  ],
+  "gold_aliases": [
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "meetings/2026-10-12-supplier-quality-review.md",
+    "line",
+    1
+   ],
+   [
+    "meetings/2026-10-12-supplier-quality-review.md",
+    "line",
+    3
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    29
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    32
+   ]
+  ],
+  "needs": "",
+  "id": "q39"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which members of the Customer Support team attended the Support Team Retro on 6 October?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Sarah Clarke",
+   "Sophie Wright",
+   "Amy Morris",
+   "Josh Ellis"
+  ],
+  "gold_aliases": [
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "meetings/2026-10-06-support-team-retro.md",
+    "line",
+    1
+   ],
+   [
+    "meetings/2026-10-06-support-team-retro.md",
+    "line",
+    3
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    11
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    15
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    17
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    18
+   ]
+  ],
+  "needs": "",
+  "id": "q40"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which of Grace Cooper's accounts have a high-priority ticket that is not closed?",
+  "answer_type": "entities",
+  "entity_type": "Customer",
+  "gold": [
+   "Harbour City Climbing",
+   "Lakeside Leisure Shop"
+  ],
+  "gold_aliases": [
+   [
+    "Harbour City Climbing"
+   ],
+   [
+    "Lakeside Leisure Shop"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Summit Trail Outfitters"
+   ],
+   [
+    "Kea Kids Club"
+   ],
+   [
+    "Harbourside Adventure Store"
+   ],
+   [
+    "Riverstone Outdoors"
+   ],
+   [
+    "Riverstone Outdoor Club"
+   ],
+   [
+    "Glacier Bay Supplies"
+   ],
+   [
+    "Tasman Tramping Club"
+   ],
+   [
+    "Ironsand Surf and Trail"
+   ],
+   [
+    "Pinecrest High School"
+   ],
+   [
+    "Totara Valley Scouts"
+   ],
+   [
+    "Coastal Edge Sports"
+   ],
+   [
+    "Mountain Mile Gear"
+   ],
+   [
+    "Waypoint Online"
+   ],
+   [
+    "Kowhai Camping Co"
+   ],
+   [
+    "Bluff Road Outdoors"
+   ],
+   [
+    "Northern Ridge Alpine Club"
+   ],
+   [
+    "Driftwood Kayak Hire"
+   ],
+   [
+    "Red Tussock Retail"
+   ],
+   [
+    "Silver Fern Gear Hub"
+   ],
+   [
+    "Fiordland Expeditions Store"
+   ],
+   [
+    "Cape Light Camping"
+   ],
+   [
+    "Granite Peak Outfitters"
+   ],
+   [
+    "Westland Wanderers"
+   ],
+   [
+    "Rimu Grove College"
+   ],
+   [
+    "Basecamp Direct"
+   ],
+   [
+    "Matai Street Sports"
+   ],
+   [
+    "Southern Lakes Trading"
+   ],
+   [
+    "Pohutukawa Paddlers"
+   ],
+   [
+    "Clearwater Outdoor Centre"
+   ],
+   [
+    "High Country Hikers"
+   ],
+   [
+    "Sandspit Surf Shop"
+   ],
+   [
+    "Moa Point Adventure"
+   ],
+   [
+    "Twin Rivers School"
+   ],
+   [
+    "Trailhead Collective"
+   ],
+   [
+    "Kaikoura Coast Outdoors"
+   ],
+   [
+    "Eastgate Camping World"
+   ],
+   [
+    "Hilltop Harriers"
+   ],
+   [
+    "Cloudline Online"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    15
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    25
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    9
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    13
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    142
+   ]
+  ],
+  "needs": "",
+  "id": "q41"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which delayed inbound shipments carried products that Rimu Grove College has ordered?",
+  "answer_type": "entities",
+  "entity_type": "Shipment",
+  "gold": [
+   "SHP-332",
+   "SHP-336",
+   "SHP-347"
+  ],
+  "gold_aliases": [
+   [
+    "SHP-332"
+   ],
+   [
+    "SHP-336"
+   ],
+   [
+    "SHP-347"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "SHP-301"
+   ],
+   [
+    "SHP-302"
+   ],
+   [
+    "SHP-303"
+   ],
+   [
+    "SHP-305"
+   ],
+   [
+    "SHP-306"
+   ],
+   [
+    "SHP-304"
+   ],
+   [
+    "SHP-307"
+   ],
+   [
+    "SHP-308"
+   ],
+   [
+    "SHP-309"
+   ],
+   [
+    "SHP-310"
+   ],
+   [
+    "SHP-314"
+   ],
+   [
+    "SHP-312"
+   ],
+   [
+    "SHP-311"
+   ],
+   [
+    "SHP-313"
+   ],
+   [
+    "SHP-315"
+   ],
+   [
+    "SHP-317"
+   ],
+   [
+    "SHP-318"
+   ],
+   [
+    "SHP-316"
+   ],
+   [
+    "SHP-320"
+   ],
+   [
+    "SHP-321"
+   ],
+   [
+    "SHP-319"
+   ],
+   [
+    "SHP-324"
+   ],
+   [
+    "SHP-322"
+   ],
+   [
+    "SHP-325"
+   ],
+   [
+    "SHP-323"
+   ],
+   [
+    "SHP-327"
+   ],
+   [
+    "SHP-326"
+   ],
+   [
+    "SHP-328"
+   ],
+   [
+    "SHP-329"
+   ],
+   [
+    "SHP-331"
+   ],
+   [
+    "SHP-330"
+   ],
+   [
+    "SHP-333"
+   ],
+   [
+    "SHP-335"
+   ],
+   [
+    "SHP-334"
+   ],
+   [
+    "SHP-337"
+   ],
+   [
+    "SHP-339"
+   ],
+   [
+    "SHP-338"
+   ],
+   [
+    "SHP-342"
+   ],
+   [
+    "SHP-341"
+   ],
+   [
+    "SHP-343"
+   ],
+   [
+    "SHP-340"
+   ],
+   [
+    "SHP-344"
+   ],
+   [
+    "SHP-346"
+   ],
+   [
+    "SHP-345"
+   ],
+   [
+    "SHP-349"
+   ],
+   [
+    "SHP-348"
+   ],
+   [
+    "SHP-352"
+   ],
+   [
+    "SHP-350"
+   ],
+   [
+    "SHP-351"
+   ],
+   [
+    "SHP-354"
+   ],
+   [
+    "SHP-353"
+   ],
+   [
+    "SHP-355"
+   ],
+   [
+    "SHP-356"
+   ],
+   [
+    "SHP-362"
+   ],
+   [
+    "SHP-363"
+   ],
+   [
+    "SHP-358"
+   ],
+   [
+    "SHP-360"
+   ],
+   [
+    "SHP-361"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    26
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    371
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    513
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    213
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    292
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    32
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    37
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    48
+   ]
+  ],
+  "needs": "",
+  "id": "q42"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Which delayed inbound shipments carried products that Ironsand Surf and Trail has ordered?",
+  "answer_type": "entities",
+  "entity_type": "Shipment",
+  "gold": [
+   "SHP-307",
+   "SHP-333",
+   "SHP-334",
+   "SHP-342"
+  ],
+  "gold_aliases": [
+   [
+    "SHP-307"
+   ],
+   [
+    "SHP-333"
+   ],
+   [
+    "SHP-334"
+   ],
+   [
+    "SHP-342"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "SHP-301"
+   ],
+   [
+    "SHP-302"
+   ],
+   [
+    "SHP-303"
+   ],
+   [
+    "SHP-305"
+   ],
+   [
+    "SHP-306"
+   ],
+   [
+    "SHP-304"
+   ],
+   [
+    "SHP-308"
+   ],
+   [
+    "SHP-309"
+   ],
+   [
+    "SHP-310"
+   ],
+   [
+    "SHP-314"
+   ],
+   [
+    "SHP-312"
+   ],
+   [
+    "SHP-311"
+   ],
+   [
+    "SHP-313"
+   ],
+   [
+    "SHP-315"
+   ],
+   [
+    "SHP-317"
+   ],
+   [
+    "SHP-318"
+   ],
+   [
+    "SHP-316"
+   ],
+   [
+    "SHP-320"
+   ],
+   [
+    "SHP-321"
+   ],
+   [
+    "SHP-319"
+   ],
+   [
+    "SHP-324"
+   ],
+   [
+    "SHP-322"
+   ],
+   [
+    "SHP-325"
+   ],
+   [
+    "SHP-323"
+   ],
+   [
+    "SHP-327"
+   ],
+   [
+    "SHP-326"
+   ],
+   [
+    "SHP-328"
+   ],
+   [
+    "SHP-329"
+   ],
+   [
+    "SHP-331"
+   ],
+   [
+    "SHP-330"
+   ],
+   [
+    "SHP-332"
+   ],
+   [
+    "SHP-335"
+   ],
+   [
+    "SHP-337"
+   ],
+   [
+    "SHP-336"
+   ],
+   [
+    "SHP-339"
+   ],
+   [
+    "SHP-338"
+   ],
+   [
+    "SHP-341"
+   ],
+   [
+    "SHP-343"
+   ],
+   [
+    "SHP-340"
+   ],
+   [
+    "SHP-344"
+   ],
+   [
+    "SHP-346"
+   ],
+   [
+    "SHP-345"
+   ],
+   [
+    "SHP-349"
+   ],
+   [
+    "SHP-347"
+   ],
+   [
+    "SHP-348"
+   ],
+   [
+    "SHP-352"
+   ],
+   [
+    "SHP-350"
+   ],
+   [
+    "SHP-351"
+   ],
+   [
+    "SHP-354"
+   ],
+   [
+    "SHP-353"
+   ],
+   [
+    "SHP-355"
+   ],
+   [
+    "SHP-356"
+   ],
+   [
+    "SHP-362"
+   ],
+   [
+    "SHP-363"
+   ],
+   [
+    "SHP-358"
+   ],
+   [
+    "SHP-360"
+   ],
+   [
+    "SHP-361"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    8
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    16
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    285
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    9
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    160
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    7
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    33
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    35
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    40
+   ]
+  ],
+  "needs": "",
+  "id": "q43"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Who is the account manager for the company that John Smith works for?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "James Walker"
+  ],
+  "gold_aliases": [
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "crm/contacts.csv",
+    "row",
+    1
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    1
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    41
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    4
+   ]
+  ],
+  "needs": "",
+  "id": "q44"
+ },
+ {
+  "group": "multi-hop",
+  "question": "Who is the account manager for the company that Karen Payne works for?",
+  "answer_type": "entities",
+  "entity_type": "Employee",
+  "gold": [
+   "Hannah Moore"
+  ],
+  "gold_aliases": [
+   [
+    "Hannah Moore",
+    "hannah.moore@acmeoutdoor.example"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Claire Fraser",
+    "claire.fraser@acmeoutdoor.example"
+   ],
+   [
+    "Mark Reid",
+    "mark.reid@acmeoutdoor.example"
+   ],
+   [
+    "Tom Baker",
+    "tom.baker@acmeoutdoor.example"
+   ],
+   [
+    "James Walker",
+    "james.walker@acmeoutdoor.example"
+   ],
+   [
+    "Ben Turner",
+    "ben.turner@acmeoutdoor.example"
+   ],
+   [
+    "Chloe Bell",
+    "chloe.bell@acmeoutdoor.example"
+   ],
+   [
+    "Daniel Hughes",
+    "daniel.hughes@acmeoutdoor.example"
+   ],
+   [
+    "Grace Cooper",
+    "grace.cooper@acmeoutdoor.example"
+   ],
+   [
+    "Luke Ward",
+    "luke.ward@acmeoutdoor.example"
+   ],
+   [
+    "Sarah Clarke",
+    "sarah.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Emma Wilson",
+    "emma.wilson@acmeoutdoor.example"
+   ],
+   [
+    "Ryan Young",
+    "ryan.young@acmeoutdoor.example"
+   ],
+   [
+    "Megan King",
+    "megan.king@acmeoutdoor.example"
+   ],
+   [
+    "Sophie Wright",
+    "sophie.wright@acmeoutdoor.example"
+   ],
+   [
+    "Nathan Green",
+    "nathan.green@acmeoutdoor.example"
+   ],
+   [
+    "Amy Morris",
+    "amy.morris@acmeoutdoor.example"
+   ],
+   [
+    "Josh Ellis",
+    "josh.ellis@acmeoutdoor.example"
+   ],
+   [
+    "Simon Clarke",
+    "simon.clarke@acmeoutdoor.example"
+   ],
+   [
+    "Kate Palmer",
+    "kate.palmer@acmeoutdoor.example"
+   ],
+   [
+    "Matt Lane",
+    "matt.lane@acmeoutdoor.example"
+   ],
+   [
+    "Ella Shaw",
+    "ella.shaw@acmeoutdoor.example"
+   ],
+   [
+    "Adam Price",
+    "adam.price@acmeoutdoor.example"
+   ],
+   [
+    "Rachel Fox",
+    "rachel.fox@acmeoutdoor.example"
+   ],
+   [
+    "Chris Mason",
+    "chris.mason@acmeoutdoor.example"
+   ],
+   [
+    "Holly Knight",
+    "holly.knight@acmeoutdoor.example"
+   ],
+   [
+    "Peter Gibson",
+    "peter.gibson@acmeoutdoor.example"
+   ],
+   [
+    "Laura Marsh",
+    "laura.marsh@acmeoutdoor.example"
+   ],
+   [
+    "Olivia Grant",
+    "olivia.grant@acmeoutdoor.example"
+   ],
+   [
+    "Zoe Dixon",
+    "zoe.dixon@acmeoutdoor.example"
+   ],
+   [
+    "Michael Barker",
+    "michael.barker@acmeoutdoor.example"
+   ],
+   [
+    "Anna Holmes",
+    "anna.holmes@acmeoutdoor.example"
+   ],
+   [
+    "James Hall",
+    "james.hall@acmeoutdoor.example"
+   ],
+   [
+    "David Lloyd",
+    "david.lloyd@acmeoutdoor.example"
+   ],
+   [
+    "Jess Murray",
+    "jess.murray@acmeoutdoor.example"
+   ],
+   [
+    "Andrew Hunt",
+    "andrew.hunt@acmeoutdoor.example"
+   ],
+   [
+    "Rebecca Webb",
+    "rebecca.webb@acmeoutdoor.example"
+   ],
+   [
+    "Paul Ford",
+    "paul.ford@acmeoutdoor.example"
+   ],
+   [
+    "Isla Taylor",
+    "isla.taylor@acmeoutdoor.example"
+   ],
+   [
+    "Harry Brown",
+    "harry.brown@acmeoutdoor.example"
+   ]
+  ],
+  "support": [
+   [
+    "crm/contacts.csv",
+    "row",
+    21
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    12
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    5
+   ]
+  ],
+  "needs": "",
+  "id": "q45"
+ },
+ {
+  "group": "aggregation",
+  "question": "How many orders has Summit Trail Outfitters placed?",
+  "answer_type": "number",
+  "gold": 29,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    1
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    41
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    12
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    21
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    22
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    32
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    36
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    41
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    61
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    75
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    114
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    116
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    130
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    147
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    150
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    158
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    180
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    185
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    189
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    197
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    206
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    215
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    216
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    219
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    257
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    261
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    265
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    267
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    271
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    276
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    345
+   ]
+  ],
+  "needs": "",
+  "id": "q46"
+ },
+ {
+  "group": "aggregation",
+  "question": "How many orders has Glacier Bay Supplies placed?",
+  "answer_type": "number",
+  "gold": 18,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    6
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    42
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    10
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    31
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    63
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    70
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    87
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    88
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    91
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    120
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    134
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    140
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    148
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    208
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    231
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    251
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    270
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    277
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    310
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    314
+   ]
+  ],
+  "needs": "",
+  "id": "q47"
+ },
+ {
+  "group": "aggregation",
+  "question": "How many orders has Granite Peak Outfitters placed?",
+  "answer_type": "number",
+  "gold": 10,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    23
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    107
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    112
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    118
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    124
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    126
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    129
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    174
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    179
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    268
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    315
+   ]
+  ],
+  "needs": "",
+  "id": "q48"
+ },
+ {
+  "group": "aggregation",
+  "question": "What was the total value in NZD of the orders Summit Trail Outfitters placed in September?",
+  "answer_type": "number",
+  "gold": 6510.0,
+  "tolerance": 0.01,
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    1
+   ],
+   [
+    "crm/customers.csv",
+    "row",
+    41
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    261
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    265
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    267
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    271
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    276
+   ]
+  ],
+  "needs": "",
+  "id": "q49"
+ },
+ {
+  "group": "aggregation",
+  "question": "What was the total value in NZD of the orders Cloudline Online placed in August?",
+  "answer_type": "number",
+  "gold": 1124.4,
+  "tolerance": 0.01,
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    40
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    239
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    247
+   ]
+  ],
+  "needs": "",
+  "id": "q50"
+ },
+ {
+  "group": "aggregation",
+  "question": "Which product sold the most units in July?",
+  "answer_type": "entities",
+  "entity_type": "Product",
+  "gold": [
+   "Canvas Bell Tent"
+  ],
+  "gold_aliases": [
+   [
+    "Canvas Bell Tent",
+    "ACM-TEN-005"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Ridgeline 2P Tent",
+    "ACM-TEN-001"
+   ],
+   [
+    "Ridgeline 3P Tent",
+    "ACM-TEN-002"
+   ],
+   [
+    "Storm Shelter Fly",
+    "ACM-TEN-003"
+   ],
+   [
+    "Tarn Rain Shell",
+    "ACM-APP-001"
+   ],
+   [
+    "Basin Hiking Pants",
+    "ACM-APP-002"
+   ],
+   [
+    "Kepler Tent Poles",
+    "ACM-TEN-004"
+   ],
+   [
+    "Alpine Base Layer",
+    "ACM-APP-003"
+   ],
+   [
+    "Merino Hiking Socks",
+    "ACM-APP-004"
+   ],
+   [
+    "Merino Beanie",
+    "ACM-APP-005"
+   ],
+   [
+    "Merino Midlayer",
+    "ACM-APP-006"
+   ],
+   [
+    "Trailhead 45L Pack",
+    "ACM-PAK-001"
+   ],
+   [
+    "Trailhead 65L Pack",
+    "ACM-PAK-002"
+   ],
+   [
+    "Daytripper 22L Pack",
+    "ACM-PAK-003"
+   ],
+   [
+    "Summit Hydration Pack",
+    "ACM-PAK-004"
+   ],
+   [
+    "Kids Explorer Pack",
+    "ACM-PAK-005"
+   ],
+   [
+    "Aurora Down Bag -5C",
+    "ACM-SLP-001"
+   ],
+   [
+    "Aurora Down Bag 0C",
+    "ACM-SLP-002"
+   ],
+   [
+    "Down Hut Booties",
+    "ACM-FTW-001"
+   ],
+   [
+    "Cloudrest Sleeping Mat",
+    "ACM-SLP-003"
+   ],
+   [
+    "Inflatable Camp Pillow",
+    "ACM-SLP-004"
+   ],
+   [
+    "Trail Runner Gaiters",
+    "ACM-FTW-002"
+   ],
+   [
+    "Stream Crossing Sandals",
+    "ACM-FTW-003"
+   ],
+   [
+    "Canvas Gear Bag",
+    "ACM-PAK-006"
+   ],
+   [
+    "Camp Kitchen Tarp",
+    "ACM-TEN-006"
+   ],
+   [
+    "Ember Camp Stove",
+    "ACM-COK-001"
+   ],
+   [
+    "Ember Titanium Pot",
+    "ACM-COK-002"
+   ],
+   [
+    "Ember Mess Kit",
+    "ACM-COK-003"
+   ],
+   [
+    "Ember Fuel Canister",
+    "ACM-COK-004"
+   ],
+   [
+    "Ember Folding Spork",
+    "ACM-COK-005"
+   ]
+  ],
+  "support": [
+   [
+    "ops/order_lines.csv",
+    "row",
+    271
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    312
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    317
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    324
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    341
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    348
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    370
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    152
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    177
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    180
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    184
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    194
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    199
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    212
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    23
+   ]
+  ],
+  "needs": "",
+  "id": "q51"
+ },
+ {
+  "group": "aggregation",
+  "question": "Which product sold the most units in September?",
+  "answer_type": "entities",
+  "entity_type": "Product",
+  "gold": [
+   "Cloudrest Sleeping Mat"
+  ],
+  "gold_aliases": [
+   [
+    "Cloudrest Sleeping Mat",
+    "ACM-SLP-003"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Ridgeline 2P Tent",
+    "ACM-TEN-001"
+   ],
+   [
+    "Ridgeline 3P Tent",
+    "ACM-TEN-002"
+   ],
+   [
+    "Storm Shelter Fly",
+    "ACM-TEN-003"
+   ],
+   [
+    "Tarn Rain Shell",
+    "ACM-APP-001"
+   ],
+   [
+    "Basin Hiking Pants",
+    "ACM-APP-002"
+   ],
+   [
+    "Kepler Tent Poles",
+    "ACM-TEN-004"
+   ],
+   [
+    "Alpine Base Layer",
+    "ACM-APP-003"
+   ],
+   [
+    "Merino Hiking Socks",
+    "ACM-APP-004"
+   ],
+   [
+    "Merino Beanie",
+    "ACM-APP-005"
+   ],
+   [
+    "Merino Midlayer",
+    "ACM-APP-006"
+   ],
+   [
+    "Trailhead 45L Pack",
+    "ACM-PAK-001"
+   ],
+   [
+    "Trailhead 65L Pack",
+    "ACM-PAK-002"
+   ],
+   [
+    "Daytripper 22L Pack",
+    "ACM-PAK-003"
+   ],
+   [
+    "Summit Hydration Pack",
+    "ACM-PAK-004"
+   ],
+   [
+    "Kids Explorer Pack",
+    "ACM-PAK-005"
+   ],
+   [
+    "Aurora Down Bag -5C",
+    "ACM-SLP-001"
+   ],
+   [
+    "Aurora Down Bag 0C",
+    "ACM-SLP-002"
+   ],
+   [
+    "Down Hut Booties",
+    "ACM-FTW-001"
+   ],
+   [
+    "Inflatable Camp Pillow",
+    "ACM-SLP-004"
+   ],
+   [
+    "Trail Runner Gaiters",
+    "ACM-FTW-002"
+   ],
+   [
+    "Stream Crossing Sandals",
+    "ACM-FTW-003"
+   ],
+   [
+    "Canvas Bell Tent",
+    "ACM-TEN-005"
+   ],
+   [
+    "Canvas Gear Bag",
+    "ACM-PAK-006"
+   ],
+   [
+    "Camp Kitchen Tarp",
+    "ACM-TEN-006"
+   ],
+   [
+    "Ember Camp Stove",
+    "ACM-COK-001"
+   ],
+   [
+    "Ember Titanium Pot",
+    "ACM-COK-002"
+   ],
+   [
+    "Ember Mess Kit",
+    "ACM-COK-003"
+   ],
+   [
+    "Ember Fuel Canister",
+    "ACM-COK-004"
+   ],
+   [
+    "Ember Folding Spork",
+    "ACM-COK-005"
+   ]
+  ],
+  "support": [
+   [
+    "ops/order_lines.csv",
+    "row",
+    455
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    470
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    482
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    495
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    517
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    525
+   ],
+   [
+    "ops/order_lines.csv",
+    "row",
+    538
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    260
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    270
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    275
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    284
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    294
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    298
+   ],
+   [
+    "ops/orders.csv",
+    "row",
+    304
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    19
+   ]
+  ],
+  "needs": "",
+  "id": "q52"
+ },
+ {
+  "group": "aggregation",
+  "question": "Which supplier has had the most delayed shipments?",
+  "answer_type": "entities",
+  "entity_type": "Supplier",
+  "gold": [
+   "Ridgeback Textiles"
+  ],
+  "gold_aliases": [
+   [
+    "Ridgeback Textiles"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Alpine Loom"
+   ],
+   [
+    "Tussock Wool Mills"
+   ],
+   [
+    "Northfold Packs"
+   ],
+   [
+    "Bluegum Down Supply"
+   ],
+   [
+    "Coastline Polymers"
+   ],
+   [
+    "Kiwi Canvas Works"
+   ],
+   [
+    "Ember Cookware"
+   ]
+  ],
+  "support": [
+   [
+    "ops/shipments.csv",
+    "row",
+    6
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    9
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    26
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    57
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    58
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    1
+   ]
+  ],
+  "needs": "",
+  "id": "q53"
+ },
+ {
+  "group": "aggregation",
+  "question": "How many open tickets does Josh Ellis have?",
+  "answer_type": "number",
+  "gold": 3,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    18
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    20
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    38
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    144
+   ]
+  ],
+  "needs": "",
+  "id": "q54"
+ },
+ {
+  "group": "aggregation",
+  "question": "How many open tickets does Emma Wilson have?",
+  "answer_type": "number",
+  "gold": 6,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    12
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    55
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    87
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    132
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    146
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    156
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    158
+   ]
+  ],
+  "needs": "",
+  "id": "q55"
+ },
+ {
+  "group": "aggregation",
+  "question": "Which customer has raised the most complaints?",
+  "answer_type": "entities",
+  "entity_type": "Customer",
+  "gold": [
+   "Pohutukawa Paddlers"
+  ],
+  "gold_aliases": [
+   [
+    "Pohutukawa Paddlers"
+   ]
+  ],
+  "other_aliases": [
+   [
+    "Summit Trail Outfitters"
+   ],
+   [
+    "Kea Kids Club"
+   ],
+   [
+    "Harbourside Adventure Store"
+   ],
+   [
+    "Riverstone Outdoors"
+   ],
+   [
+    "Riverstone Outdoor Club"
+   ],
+   [
+    "Glacier Bay Supplies"
+   ],
+   [
+    "Tasman Tramping Club"
+   ],
+   [
+    "Ironsand Surf and Trail"
+   ],
+   [
+    "Pinecrest High School"
+   ],
+   [
+    "Totara Valley Scouts"
+   ],
+   [
+    "Coastal Edge Sports"
+   ],
+   [
+    "Mountain Mile Gear"
+   ],
+   [
+    "Waypoint Online"
+   ],
+   [
+    "Kowhai Camping Co"
+   ],
+   [
+    "Lakeside Leisure Shop"
+   ],
+   [
+    "Bluff Road Outdoors"
+   ],
+   [
+    "Northern Ridge Alpine Club"
+   ],
+   [
+    "Driftwood Kayak Hire"
+   ],
+   [
+    "Red Tussock Retail"
+   ],
+   [
+    "Silver Fern Gear Hub"
+   ],
+   [
+    "Fiordland Expeditions Store"
+   ],
+   [
+    "Cape Light Camping"
+   ],
+   [
+    "Granite Peak Outfitters"
+   ],
+   [
+    "Westland Wanderers"
+   ],
+   [
+    "Harbour City Climbing"
+   ],
+   [
+    "Rimu Grove College"
+   ],
+   [
+    "Basecamp Direct"
+   ],
+   [
+    "Matai Street Sports"
+   ],
+   [
+    "Southern Lakes Trading"
+   ],
+   [
+    "Clearwater Outdoor Centre"
+   ],
+   [
+    "High Country Hikers"
+   ],
+   [
+    "Sandspit Surf Shop"
+   ],
+   [
+    "Moa Point Adventure"
+   ],
+   [
+    "Twin Rivers School"
+   ],
+   [
+    "Trailhead Collective"
+   ],
+   [
+    "Kaikoura Coast Outdoors"
+   ],
+   [
+    "Eastgate Camping World"
+   ],
+   [
+    "Hilltop Harriers"
+   ],
+   [
+    "Cloudline Online"
+   ]
+  ],
+  "support": [
+   [
+    "crm/customers.csv",
+    "row",
+    30
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    79
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    83
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    90
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    91
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    108
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    113
+   ]
+  ],
+  "needs": "",
+  "id": "q56"
+ },
+ {
+  "group": "aggregation",
+  "question": "How many support tickets have been about products supplied by Northfold Packs Ltd?",
+  "answer_type": "number",
+  "gold": 28,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "ops/products.csv",
+    "row",
+    12
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    13
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    14
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    15
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    4
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    1
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    4
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    27
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    30
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    31
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    35
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    38
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    41
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    47
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    55
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    72
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    87
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    93
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    95
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    97
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    99
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    107
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    118
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    122
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    124
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    129
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    136
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    138
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    140
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    151
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    155
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    157
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    159
+   ]
+  ],
+  "needs": "",
+  "id": "q57"
+ },
+ {
+  "group": "aggregation",
+  "question": "How many support tickets have been about products supplied by Ember Cookware Ltd?",
+  "answer_type": "number",
+  "gold": 26,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "ops/products.csv",
+    "row",
+    26
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    27
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    28
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    29
+   ],
+   [
+    "ops/products.csv",
+    "row",
+    30
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    8
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    9
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    14
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    18
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    52
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    56
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    67
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    69
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    71
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    88
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    91
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    96
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    101
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    109
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    110
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    115
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    117
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    126
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    131
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    137
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    139
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    142
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    145
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    150
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    156
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    158
+   ],
+   [
+    "support/tickets.json",
+    "record",
+    162
+   ]
+  ],
+  "needs": "",
+  "id": "q58"
+ },
+ {
+  "group": "aggregation",
+  "question": "How many people work in the Operations team?",
+  "answer_type": "number",
+  "gold": 10,
+  "tolerance": 0.0,
+  "support": [
+   [
+    "org/org_chart.json",
+    "record",
+    19
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    20
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    21
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    22
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    23
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    24
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    25
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    26
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    27
+   ],
+   [
+    "org/org_chart.json",
+    "record",
+    28
+   ]
+  ],
+  "needs": "",
+  "id": "q59"
+ },
+ {
+  "group": "aggregation",
+  "question": "On average, how many days late were Ridgeback Textiles' delayed shipments?",
+  "answer_type": "number",
+  "gold": 6.2,
+  "tolerance": 0.05,
+  "support": [
+   [
+    "ops/shipments.csv",
+    "row",
+    6
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    9
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    26
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    57
+   ],
+   [
+    "ops/shipments.csv",
+    "row",
+    58
+   ],
+   [
+    "ops/suppliers.csv",
+    "row",
+    1
+   ]
+  ],
+  "needs": "",
+  "id": "q60"
+ }
+]
